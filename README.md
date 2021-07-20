@@ -1,1 +1,1 @@
-Java Scprit学习
+JS基础实例学习。
