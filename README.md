@@ -1,6 +1,6 @@
-### 1. javascprit
+###  JavaScript
 
-#### 1.1 javascprit 初步
+#### 1.1 JavaScript 初步
 
 1. [示例](https://logicwang.github.io/JS/js/1.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/1.html)
