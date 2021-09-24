@@ -14,7 +14,7 @@
 [代码](https://github.com/logicwang/JS/blob/main/js/%E4%BB%80%E4%B9%88%E6%98%AFJavascript/3.html)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript) |
 内部 JavaScript
-4. [示例](https://logicwang.github.io/JS/js/4.html)
+4. [示例](https://logicwang.github.io/JS/js/%E4%BB%80%E4%B9%88%E6%98%AFJavascript/4.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/%E4%BB%80%E4%B9%88%E6%98%AFJavascript/4.html)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript) |
 在JavaScript添加注释
