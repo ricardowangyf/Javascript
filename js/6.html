@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>head中的JavaScript</title>
+    <script>
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "段落已被更改。";
+        }
+    </script>
 </head>
+
 <body>
-    
+<head>
+    <h2>head中的JavaScript</h2>
+    <p id="demo">一个段落。</p>
+    <button type="button" onclick="myFunction()">点击</button>
+</head>
 </body>
+
 </html>
