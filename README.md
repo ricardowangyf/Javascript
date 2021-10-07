@@ -27,5 +27,10 @@ JavaScript能够显示隐藏的HTML元素
 
 1. [示例](https://logicwang.github.io/JS/js/6.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/6.html)
+[章节](https://www.w3school.com.cn/js/js_shiyong.aspgit) |
+head标签中的JavaScript
+
+2. [示例](https://logicwang.github.io/JS/js/7.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/7.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
-head标签 中的 JavaScript
+body中的JavaScript
