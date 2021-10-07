@@ -33,3 +33,7 @@ head标签中的JavaScript
 [代码](https://github.com/logicwang/JS/blob/main/js/7.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 body中的JavaScript
+3. [示例](https://logicwang.github.io/JS/js/8.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/8.html)
+[章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
+body中的JavaScript
