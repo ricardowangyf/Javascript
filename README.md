@@ -25,7 +25,7 @@ JavaScript能够显示隐藏的HTML元素
 
 #### 1.2 JavaScript 使用
 
-1. [示例](https://logicwang.github.io/JS/js/1.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/1.html)
-[章节](https://www.w3school.com.cn/js/js_intro.asp) |
-JavaScript能够改变HTML内容
+1. [示例](https://logicwang.github.io/JS/js/6.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/6.html)
+[章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
+head标签 中的 JavaScript
