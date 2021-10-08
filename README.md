@@ -36,4 +36,8 @@ body中的JavaScript
 3. [示例](https://logicwang.github.io/JS/js/8.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/8.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
-body中的JavaScript
+外部文件中的JavaScript
+4. [示例](https://logicwang.github.io/JS/js/9.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/9.html)
+[章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
+外部url中的JavaScript
