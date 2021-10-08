@@ -41,7 +41,7 @@ body中的JavaScript
 [代码](https://github.com/logicwang/JS/blob/main/js/9.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 外部url中的JavaScript
-5. [示例](https://logicwang.github.io/JS/js/9.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/9.html)
+5. [示例](https://logicwang.github.io/JS/js/10.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/10.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 外部url中的JavaScript
