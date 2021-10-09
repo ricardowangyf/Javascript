@@ -23,7 +23,7 @@ JavaScript能够隐藏HTML元素
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够显示隐藏的HTML元素
 
-#### 1.2 JavaScript 使用
+#### 2.2 JavaScript 使用
 
 1. [示例](https://logicwang.github.io/JS/js/6.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/6.html)
@@ -47,8 +47,16 @@ body中的JavaScript
 外部url中的JavaScript
 
 
-#### 1.2 JavaScript 输出
+#### 3.2 JavaScript 输出
 1. [示例](https://logicwang.github.io/JS/js/11.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/11.html)
 [章节](https://www.w3school.com.cn/js/js_output.asp) |
 写入HTML输出
+2. [示例](https://logicwang.github.io/JS/js/12.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/12.html)
+[章节](https://www.w3school.com.cn/js/js_output.asp) |
+写入HTML元素
+3. [示例](https://logicwang.github.io/JS/js/12.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/12.html)
+[章节](https://www.w3school.com.cn/js/js_output.asp) |
+写入HTML元素
