@@ -127,3 +127,11 @@ JavaScript语句是对浏览器的命令
 [代码](https://github.com/logicwang/JS/blob/main/js/28.html)
 [章节](https://www.w3school.com.cn/js/js_statements.asp) |
 JavaScript代码是一系列语句
+3. [示例](https://logicwang.github.io/JS/js/29.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/29.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+JavaScript语句由分号分隔
+4. [示例](https://github.com/logicwang/JS/blob/main/js/30.html)
+[代码](https://logicwang.github.io/JS/js/30.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+一行允许多条语句
