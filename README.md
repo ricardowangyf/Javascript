@@ -56,7 +56,7 @@ body中的JavaScript
 [代码](https://github.com/logicwang/JS/blob/main/js/12.html)
 [章节](https://www.w3school.com.cn/js/js_output.asp) |
 写入HTML元素
-3. [示例](https://logicwang.github.io/JS/js/12.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/12.html)
+3. [示例](https://logicwang.github.io/JS/js/13.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/13.html)
 [章节](https://www.w3school.com.cn/js/js_output.asp) |
-写入HTML元素
+写入窗口提示框
