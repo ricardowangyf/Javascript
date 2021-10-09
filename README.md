@@ -76,7 +76,43 @@ JavaScript语句
 [代码](https://github.com/logicwang/JS/blob/main/js/16.html)
 [章节](https://www.w3school.com.cn/js/js_syntax.asp) |
 JavaScript数字
-3. [示例](https://logicwang.github.io/JS/js/16.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/16.html)
+3. [示例](https://logicwang.github.io/JS/js/17.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/17.html)
 [章节](https://www.w3school.com.cn/js/js_syntax.asp) |
 JavaScript字符串
+4. [示例](https://logicwang.github.io/JS/js/18.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/18.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript变量
+5. [示例](https://logicwang.github.io/JS/js/19.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/19.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript运算符
+6. [示例](https://logicwang.github.io/JS/js/20.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/20.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript赋值
+7. [示例](https://logicwang.github.io/JS/js/21.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/21.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript表达式(使用常量）
+8. [示例](https://logicwang.github.io/JS/js/22.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/22.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript表达式（使用字符串）
+9. [示例](https://logicwang.github.io/JS/js/23.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/23.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript表达式（使用变量）
+10. [示例](https://logicwang.github.io/JS/js/24.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/24.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript关键词
+11. [示例](https://logicwang.github.io/JS/js/25.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/25.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript注释
+12. [示例](https://logicwang.github.io/JS/js/26.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/26.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript对大小写敏感
