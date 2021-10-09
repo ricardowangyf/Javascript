@@ -67,3 +67,16 @@ body中的JavaScript
 写入浏览器控制台
 
 #### 4.2 JavaScript 语法
+
+1. [示例](https://logicwang.github.io/JS/js/15.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/15.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript语句
+2. [示例](https://logicwang.github.io/JS/js/16.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/16.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript数字
+3. [示例](https://logicwang.github.io/JS/js/16.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/16.html)
+[章节](https://www.w3school.com.cn/js/js_syntax.asp) |
+JavaScript字符串
