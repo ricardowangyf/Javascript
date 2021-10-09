@@ -116,3 +116,14 @@ JavaScript注释
 [代码](https://github.com/logicwang/JS/blob/main/js/26.html)
 [章节](https://www.w3school.com.cn/js/js_syntax.asp) |
 JavaScript对大小写敏感
+
+#### 5.2 JavaScript 语句
+
+1. [示例](https://logicwang.github.io/JS/js/27.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/27.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+JavaScript语句是对浏览器的命令
+2. [示例](https://logicwang.github.io/JS/js/28.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/28.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+JavaScript代码是一系列语句
