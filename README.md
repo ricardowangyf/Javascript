@@ -162,10 +162,18 @@ JavaScript语句可以在代码块中组合在一起
 [代码](https://github.com/logicwang/JS/blob/main/js/36.html)
 [章节](https://www.w3school.com.cn/js/js_comments.asp) |
 阻止执行的多行注释
+5. [示例](https://logicwang.github.io/JS/js/37.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/37.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+JavaScript变量  
 
 #### 7.2 JavaScript 变量
 
-1. [示例](https://logicwang.github.io/JS/js/33.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/33.html)
-[章节](https://www.w3school.com.cn/js/js_comments.asp) |
-JavaScript变量
+1. [示例](https://logicwang.github.io/JS/js/38.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/38.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+JavaScript变量 
+2. [示例](https://logicwang.github.io/JS/js/38.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/38.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+作为代数的JavaScript变量 
