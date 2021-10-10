@@ -135,3 +135,7 @@ JavaScript语句由分号分隔
 [代码](https://logicwang.github.io/JS/js/30.html)
 [章节](https://www.w3school.com.cn/js/js_statements.asp) |
 一行允许多条语句
+5. [示例](https://logicwang.github.io/JS/js/31.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/31.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+一行允许多条语句
