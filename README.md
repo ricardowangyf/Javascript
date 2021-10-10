@@ -139,3 +139,33 @@ JavaScript语句由分号分隔
 [代码](https://github.com/logicwang/JS/blob/main/js/31.html)
 [章节](https://www.w3school.com.cn/js/js_statements.asp) |
 JavaScript语句可以在代码块中组合在一起
+6. [示例](https://logicwang.github.io/JS/js/32.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/32.html)
+[章节](https://www.w3school.com.cn/js/js_statements.asp) |
+可以在运算符或逗号之后对代码折行
+
+#### 6.2 JavaScript 注释
+
+1. [示例](https://logicwang.github.io/JS/js/33.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/33.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+单行注释
+2. [示例](https://logicwang.github.io/JS/js/34.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/34.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+行末的单行注释
+3. [示例](https://logicwang.github.io/JS/js/35.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/35.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+多行注释
+4. [示例](https://logicwang.github.io/JS/js/36.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/36.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+阻止执行的多行注释
+
+#### 7.2 JavaScript 变量
+
+1. [示例](https://logicwang.github.io/JS/js/33.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/33.html)
+[章节](https://www.w3school.com.cn/js/js_comments.asp) |
+JavaScript变量
