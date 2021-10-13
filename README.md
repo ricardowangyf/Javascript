@@ -201,3 +201,7 @@ JavaScriptvar关键词
 [代码](https://github.com/logicwang/JS/blob/main/js/45.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 重新声明变量不会破坏值
+8. [示例](https://logicwang.github.io/JS/js/46.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/46.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+JavaScript数组相加
