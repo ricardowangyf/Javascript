@@ -217,3 +217,5 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/49.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 数值和字符串相加
+
+#### 8.2 JavaScript 算术
