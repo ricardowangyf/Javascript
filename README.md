@@ -173,7 +173,11 @@ JavaScript变量
 [代码](https://github.com/logicwang/JS/blob/main/js/38.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 JavaScript变量 
-2. [示例](https://logicwang.github.io/JS/js/38.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/38.html)
+2. [示例](https://logicwang.github.io/JS/js/39.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/39.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 作为代数的JavaScript变量 
+3. [示例](https://logicwang.github.io/JS/js/40.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/40.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+JavaScript数字和字符串 
