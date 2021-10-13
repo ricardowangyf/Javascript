@@ -231,3 +231,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/52.html)
 [章节](https://www.w3school.com.cn/js/js_arithmetic.asp) |
 乘 (*) 运算符
+4. [示例](https://logicwang.github.io/JS/js/53.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/53.html)
+[章节](https://www.w3school.com.cn/js/js_arithmetic.asp) |
+除 (/) 运算符
