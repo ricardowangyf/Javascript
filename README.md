@@ -219,3 +219,7 @@ JavaScript字符串相加
 数值和字符串相加
 
 #### 8.2 JavaScript 算术
+1. [示例](https://logicwang.github.io/JS/js/50.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/50.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+加 (+) 运算符
