@@ -193,3 +193,7 @@ JavaScriptvar关键词
 [代码](https://github.com/logicwang/JS/blob/main/js/43.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 多行声明多个变量
+7. [示例](https://logicwang.github.io/JS/js/44.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/44.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+没有值的变量返回值undefined
