@@ -189,7 +189,7 @@ JavaScriptvar关键词
 [代码](https://github.com/logicwang/JS/blob/main/js/42.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 在一条语句中声明多个变量
-6. [示例](https://logicwang.github.io/JS/js/42.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/42.html)
+6. [示例](https://logicwang.github.io/JS/js/43.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/43.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 多行声明多个变量
