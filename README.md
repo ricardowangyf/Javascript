@@ -209,3 +209,7 @@ JavaScript数组相加
 [代码](https://github.com/logicwang/JS/blob/main/js/47.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 JavaScript字符串相加
+11. [示例](https://logicwang.github.io/JS/js/48.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/48.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+字符串和数字相加
