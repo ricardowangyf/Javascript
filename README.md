@@ -197,3 +197,7 @@ JavaScriptvar关键词
 [代码](https://github.com/logicwang/JS/blob/main/js/44.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 没有值的变量返回值undefined
+8. [示例](https://logicwang.github.io/JS/js/45.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/45.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+重新声明变量不会破坏值
