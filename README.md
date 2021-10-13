@@ -213,3 +213,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/48.html)
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 字符串和数字相加
+12. [示例](https://logicwang.github.io/JS/js/49.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/49.html)
+[章节](https://www.w3school.com.cn/js/js_variables.asp) |
+数值和字符串相加
