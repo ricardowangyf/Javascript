@@ -247,3 +247,9 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/56.html)
 [章节](https://www.w3school.com.cn/js/js_arithmetic.asp) |
 递减 (--) 运算符
+
+#### 9.2 JavaScript 赋值
+1. [示例](https://logicwang.github.io/JS/js/57.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/57.html)
+[章节](https://www.w3school.com.cn/js/js_assignment.asp) |
+= 赋值运算符
