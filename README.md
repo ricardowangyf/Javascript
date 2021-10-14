@@ -341,3 +341,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/77.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 JavaScript 变量
+2. [示例](https://logicwang.github.io/JS/js/78.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/78.html)
+[章节](https://www.w3school.com.cn/js/js_objects.asp) |
+创建 JavaScript 对象
