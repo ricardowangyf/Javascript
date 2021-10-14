@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>带一个参数的函数 2</title>
+    <script> 
+        function myfunction(txt) { 
+          document.getElementById("demo").innerHTML = txt
+        } 
+        </script>
+</head>
+
+<body>
+    <p>单击其中一个按钮时，将调用一个函数。该函数将显示传递给它的参数。</p>
+
+    <form>
+        <input type="button" onclick="myfunction('Good Morning!')" value="In the fucking Morning">
+        <input type="button" onclick="myfunction('Good Evening!')" value="In the fucking Evening">
+    </form>
+
+    <p id="demo"></p>
+</body>
+
+</html>
