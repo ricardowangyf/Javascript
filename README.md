@@ -437,3 +437,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/98.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 无法对代码使用反斜杠折行
+7. [示例](https://logicwang.github.io/JS/js/99.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/99.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+确定文本在字符串中首次出现的位置 - indexOf()
