@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在字符串中搜索文本并在找到后返回这段文本 - match()</title>
+</head>
+
+<body>
+    <p>单击按钮，在字符串化中执行对字母“ain”（/ain）的全局（/g）搜索，并显示匹配项。</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo"></p>
+    <script>
+        function myFunction(){
+            var str = "The rain in SPAIN stays mainly in the plain"; 
+            var res = str.match(/ain/g);
+            document.getElementById("demo").innerHTML = res;
+        }
+    </script>
+</body>
+
+</html>
