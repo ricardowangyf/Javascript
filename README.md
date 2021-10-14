@@ -349,3 +349,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/79.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 person 对象（单行）
+4. [示例](https://logicwang.github.io/JS/js/80.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/80.html)
+[章节](https://www.w3school.com.cn/js/js_objects.asp) |
+创建 person 对象（多行）
