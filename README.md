@@ -372,3 +372,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/84.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 一个简单的函数
+2. [示例](https://logicwang.github.io/JS/js/85.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/85.html)
+[章节](https://www.w3school.com.cn/js/js_functions.asp) |
+带一个参数的函数
