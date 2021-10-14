@@ -273,3 +273,9 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/61.html)
 [章节](https://www.w3school.com.cn/js/js_assignment.asp) |
 %= 赋值运算符
+
+#### 10.2 JavaScript 字符串级联
+1. [示例](https://logicwang.github.io/JS/js/62.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/62.html)
+[章节](https://www.w3school.com.cn/js/js_operators.asp) |
+使用级联运算符 (+) 将两个字符串相加
