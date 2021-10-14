@@ -279,3 +279,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/62.html)
 [章节](https://www.w3school.com.cn/js/js_operators.asp) |
 使用级联运算符 (+) 将两个字符串相加
+2. [示例](https://logicwang.github.io/JS/js/63.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/63.html)
+[章节](https://www.w3school.com.cn/js/js_operators.asp) |
+对两个字符串相加，第一个字符串中包含空格
