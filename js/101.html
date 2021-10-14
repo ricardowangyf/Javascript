@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>替换字符串中的字符 - replace()</title>
+</head>
+
+<body>
+    <h1>JavaScript 字符串方法</h1>
+    <p>请把下面的段落中的“Microsoft”替换为“W3School”：</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo">请访问 Microsoft！</p>
+    <script>
+        function myFunction() {
+            var str = document.getElementById("demo").innerHTML;
+            var txt = str.replace("Microsoft", "W3School");
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+
+</html>
