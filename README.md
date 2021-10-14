@@ -305,3 +305,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/68.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 声明（创建）数字
+2. [示例](https://logicwang.github.io/JS/js/70.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/70.html)
+[章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
+声明（创建）数组
