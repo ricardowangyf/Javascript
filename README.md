@@ -353,3 +353,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/80.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 person 对象（多行）
+5. [示例](https://logicwang.github.io/JS/js/81.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/81.html)
+[章节](https://www.w3school.com.cn/js/js_objects.asp) |
+使用 .property 访问对象属性
