@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>字符串可由单引号或双引号包围</title>
+</head>
+
+<body>
+    <h2>JavaScript 字符串</h2>
+    <p>字符串在引号中书写。您能够使用单引号或双引号：</p>
+    <p id="demo"></p>
+    <script>
+        var carName1 = "Porsche 911";//双引号
+        var carName2 = 'Porsche 911';//单引号
+        document.getElementById("demo").innerHTML =
+            carName1 + " " + carName2;
+    </script>
+</body>
+
+</html>
