@@ -429,3 +429,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/96.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 确定字符串的长度
+5. [示例](https://logicwang.github.io/JS/js/97.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/97.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+用反斜杠对文本字符串折行
