@@ -296,6 +296,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_operators.asp) |
 对字符串和数字相加
 
+
 #### 11.2 JavaScript 数据类型
 1. [示例](https://logicwang.github.io/JS/js/68.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/68.html)
@@ -333,3 +334,10 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/76.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个空变量
+
+
+#### 12.2 JavaScript 对象
+1. [示例](https://logicwang.github.io/JS/js/77.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/77.html)
+[章节](https://www.w3school.com.cn/js/js_objects.asp) |
+创建 JavaScript 变量
