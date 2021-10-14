@@ -46,7 +46,6 @@ body中的JavaScript
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 外部url中的JavaScript
 
-
 #### 3.2 JavaScript 输出
 
 1. [示例](https://logicwang.github.io/JS/js/11.html)
@@ -219,6 +218,7 @@ JavaScript字符串相加
 数值和字符串相加
 
 #### 8.2 JavaScript 算术
+
 1. [示例](https://logicwang.github.io/JS/js/50.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/50.html)
 [章节](https://www.w3school.com.cn/js/js_arithmetic.asp) |
@@ -249,6 +249,7 @@ JavaScript字符串相加
 递减 (--) 运算符
 
 #### 9.2 JavaScript 赋值
+
 1. [示例](https://logicwang.github.io/JS/js/57.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/57.html)
 [章节](https://www.w3school.com.cn/js/js_assignment.asp) |
@@ -275,6 +276,7 @@ JavaScript字符串相加
 %= 赋值运算符
 
 #### 10.2 JavaScript 字符串级联
+
 1. [示例](https://logicwang.github.io/JS/js/63.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/63.html)
 [章节](https://www.w3school.com.cn/js/js_operators.asp) |
@@ -298,6 +300,7 @@ JavaScript字符串相加
 
 
 #### 11.2 JavaScript 数据类型
+
 1. [示例](https://logicwang.github.io/JS/js/68.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/68.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
@@ -335,8 +338,8 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个空变量
 
-
 #### 12.2 JavaScript 对象
+
 1. [示例](https://logicwang.github.io/JS/js/77.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/77.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
@@ -366,8 +369,8 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 以方法访问函数属性
 
-
 #### 13.2 JavaScript  函数
+
 1. [示例](https://logicwang.github.io/JS/js/84.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/84.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
@@ -394,7 +397,31 @@ JavaScript字符串相加
 没有 () 的函数
 
 #### 14.2 JavaScript  事件
+
 1. [示例](https://logicwang.github.io/JS/js/90.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/90.html)
 [章节](https://www.w3school.com.cn/js/js_events.asp) |
 更改HTML元素的onclick事件
+2. [示例](https://logicwang.github.io/JS/js/91.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/91.html)
+[章节](https://www.w3school.com.cn/js/js_events.asp) |
+更改元素本身的onclick事件
+3. [示例](https://logicwang.github.io/JS/js/92.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/92.html)
+[章节](https://www.w3school.com.cn/js/js_events.asp) |
+调用函数的onclick事件
+
+#### 15.2 JavaScript  字符串
+
+1. [示例](https://logicwang.github.io/JS/js/93.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/93.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+字符串可由单引号或双引号包围
+2. [示例](https://logicwang.github.io/JS/js/94.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/94.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+展示一些字符串实例
+3. [示例](https://logicwang.github.io/JS/js/95.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/95.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+在引号前添加反斜杠被认定为引号
