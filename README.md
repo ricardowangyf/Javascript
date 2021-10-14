@@ -392,3 +392,9 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/89.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 没有 () 的函数
+
+#### 14.2 JavaScript  事件
+1. [示例](https://logicwang.github.io/JS/js/90.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/90.html)
+[章节](https://www.w3school.com.cn/js/js_events.asp) |
+更改HTML元素的onclick事件
