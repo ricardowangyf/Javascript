@@ -329,3 +329,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/75.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个未定义变量
+9. [示例](https://logicwang.github.io/JS/js/76.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/76.html)
+[章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
+一个空变量
