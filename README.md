@@ -291,3 +291,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/66.html)
 [章节](https://www.w3school.com.cn/js/js_operators.asp) |
 使用 += 运算符对两个字符串相加
+5. [示例](https://logicwang.github.io/JS/js/67.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/67.html)
+[章节](https://www.w3school.com.cn/js/js_operators.asp) |
+对字符串和数字相加
