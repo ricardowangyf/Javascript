@@ -317,3 +317,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/72.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 确定变量的类型
+6. [示例](https://logicwang.github.io/JS/js/73.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/73.html)
+[章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
+对两个数字和一个字符串相加
