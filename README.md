@@ -283,3 +283,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/63.html)
 [章节](https://www.w3school.com.cn/js/js_operators.asp) |
 对两个字符串相加，第一个字符串中包含空格
+3. [示例](https://logicwang.github.io/JS/js/63.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/63.html)
+[章节](https://www.w3school.com.cn/js/js_operators.asp) |
+对两个字符串相加，字符串之间有空格
