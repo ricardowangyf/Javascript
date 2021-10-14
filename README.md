@@ -449,3 +449,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/99.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 替换字符串中的字符 - replace()
+10. [示例](https://logicwang.github.io/JS/js/102.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/102.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+把字符串转换为大写 - toUpperCase()
