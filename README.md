@@ -441,3 +441,11 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/99.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 确定文本在字符串中首次出现的位置 - indexOf()
+8. [示例](https://logicwang.github.io/JS/js/100.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/99.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+在字符串中搜索文本并在找到后返回这段文本 - match()
+9. [示例](https://logicwang.github.io/JS/js/101.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/99.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+替换字符串中的字符 - replace()
