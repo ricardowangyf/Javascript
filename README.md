@@ -361,3 +361,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/82.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 使用 property 访问对象属性
+7. [示例](https://logicwang.github.io/JS/js/83.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/83.html)
+[章节](https://www.w3school.com.cn/js/js_objects.asp) |
+以方法访问函数属性
