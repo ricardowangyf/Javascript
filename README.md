@@ -483,8 +483,8 @@ JavaScript字符串相加
 5. [示例](https://logicwang.github.io/JS/js/109.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/109.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
-浮点算术不总是 100% 精确
+但是可以通过乘并除以 10 解决此问题
 6. [示例](https://logicwang.github.io/JS/js/110.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/110.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
-浮点算术不总是 100% 精确
+两数相加会产生新数
