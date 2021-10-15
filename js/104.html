@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>把字符串拆分入数组 - split()</title>
+</head>
+
+<body>
+    <h1>JavaScript 字符串方法</h1>
+
+    <p>单击“试一试”以显示在字符串拆分后的第一个数组元素。</p>
+
+    <button onclick="myFunction()">试一试</button>
+
+    <p id="demo"></p>
+
+    <script>
+        function myFunction() {
+            var str = "a,b,c,d,e,f";
+            var arr = str.split(",");
+            document.getElementById("demo").innerHTML = arr[0];
+        }
+    </script>
+</body>
+
+</html>
