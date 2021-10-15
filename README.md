@@ -457,3 +457,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/103.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串转换为小写 - toUpperCase()
+12. [示例](https://logicwang.github.io/JS/js/104.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/104.html)
+[章节](https://www.w3school.com.cn/js/js_strings.asp) |
+把字符串拆分入数组 - split()
