@@ -476,3 +476,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/107.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字会被精确到 15 位
+4. [示例](https://logicwang.github.io/JS/js/108.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/108.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+浮点算术不总是 100% 精确
