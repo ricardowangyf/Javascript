@@ -468,3 +468,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 带或不带小数点都可以写数值
+2. [示例](https://logicwang.github.io/JS/js/106.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/106.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+可以使用指数计数法编写极大或极小的数
