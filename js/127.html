@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>被零除会生成 Infinity</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>除以 0（零）也会生成 Infinity：</p>
+    <p id="demo"></p>
+    <script>
+        var x = 2 / 0;
+        var y = -2 / 0;
+        document.getElementById("demo").innerHTML = x + "<br>" + y;
+    </script>
+</body>
+
+</html>
