@@ -466,5 +466,111 @@ JavaScript字符串相加
 
 1. [示例](https://logicwang.github.io/JS/js/105.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
+<<<<<<< HEAD
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 带或不带小数点都可以写数值
+=======
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+带或不带小数点都可以写数值
+2. [示例](https://logicwang.github.io/JS/js/106.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/106.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+可以使用指数计数法编写极大或极小的数
+3. [示例](https://logicwang.github.io/JS/js/107.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/107.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字会被精确到 15 位
+4. [示例](https://logicwang.github.io/JS/js/108.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/108.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+浮点算术不总是 100% 精确
+5. [示例](https://logicwang.github.io/JS/js/109.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/109.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+但是可以通过乘并除以 10 解决此问题
+6. [示例](https://logicwang.github.io/JS/js/110.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/110.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+两数相加会产生新数
+7. [示例](https://logicwang.github.io/JS/js/111.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/111.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+两个数字字符串相加会产生连接的字符串
+8. [示例](https://logicwang.github.io/JS/js/112.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/112.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字和数字字符串相加也会产生连接的字符串
+9. [示例](https://logicwang.github.io/JS/js/113.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/113.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字字符串和数字相加也会产生连接的字符串
+10. [示例](https://logicwang.github.io/JS/js/114.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/114.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+字符串和数字相加的常见错误 1
+11. [示例](https://logicwang.github.io/JS/js/115.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/115.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+字符串和数字相加的常见错误 2
+12. [示例](https://logicwang.github.io/JS/js/116.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/116.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在除法运算时，JavaScript 会尝试把字符串转换为数字
+13. [示例](https://logicwang.github.io/JS/js/117.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/117.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在乘法运算时，JavaScript 会尝试把字符串转换为数字
+14. [示例](https://logicwang.github.io/JS/js/118.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/118.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在减法运算时，JavaScript 会尝试把字符串转换为数字
+15. [示例](https://logicwang.github.io/JS/js/119.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/119.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在加法运算时，JavaScript 会尝试把字符串转换为数字
+16. [示例](https://logicwang.github.io/JS/js/120.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/120.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+被字符串除的数不再是数
+17. [示例](https://logicwang.github.io/JS/js/121.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/121.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字除以数字字符串为数字
+18. [示例](https://logicwang.github.io/JS/js/122.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/122.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+全局 JavaScript 函数 isNaN() 判断值是否为数字
+19. [示例](https://logicwang.github.io/JS/js/123.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/123.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在数学运算中使用 NaN 会始终返回 NaN
+20. [示例](https://logicwang.github.io/JS/js/124.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/124.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在数学字符串运算中使用 NaN 将连接 NaN
+21. [示例](https://logicwang.github.io/JS/js/125.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/125.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+NaN 的类型是数字（没错！typeof NaN 返回 number）
+在数学字符串运算中使用 NaN 将连接 NaN
+22. [示例](https://logicwang.github.io/JS/js/126.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/126.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+如果计算出最大可能数字之外的数字，则返回无穷大（Infinity）
+23. [示例](https://logicwang.github.io/JS/js/127.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/127.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+被零除会生成 Infinity
+24. [示例](https://logicwang.github.io/JS/js/128.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/128.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+Infinity 也是数（typeof Infinity 返回 number）
+25. [示例](https://logicwang.github.io/JS/js/129.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/129.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+前缀为 0x 的常量会被解释为十六进制
+26. [示例](https://logicwang.github.io/JS/js/130.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/130.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+toString() 方法能够以十六进制、八进制或二进制输出数
+>>>>>>> 1d623dc02f1e0c0f3cf59f630a77bdfa59d53b90
