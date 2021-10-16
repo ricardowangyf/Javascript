@@ -5,16 +5,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>前缀为 0x 的常量会被解释为十六进制</title>
+    <title>Infinity 也是数（typeof Infinity 返回 number）</title>
 </head>
 
 <body>
     <h1>JavaScript 数字</h1>
-    <p>前缀为 0x 的数值常量会被解释为十六进制：</p>
+    <p>Infinity 是数字：</p>
     <p id="demo"></p>
     <script>
-        var x = 0xFF;
-        document.getElementById("demo").innerHTML = "0xFF = " + x;
+        var x = Infinity;
+        document.getElementById("demo").innerHTML = typeof x;
     </script>
 </body>
 
