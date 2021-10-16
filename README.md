@@ -488,3 +488,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/110.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 两数相加会产生新数
+7. [示例](https://logicwang.github.io/JS/js/110.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/110.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+两个数字字符串相加会产生连接的字符串
