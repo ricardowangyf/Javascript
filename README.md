@@ -512,3 +512,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/116.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在除法运算时，JavaScript 会尝试把字符串转换为数字
+13. [示例](https://logicwang.github.io/JS/js/117.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/117.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在乘法运算时，JavaScript 会尝试把字符串转换为数字
