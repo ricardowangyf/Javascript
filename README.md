@@ -573,4 +573,3 @@ Infinity 也是数（typeof Infinity 返回 number）
 [代码](https://github.com/logicwang/JS/blob/main/js/130.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 toString() 方法能够以十六进制、八进制或二进制输出数
->>>>>>> 1d623dc02f1e0c0f3cf59f630a77bdfa59d53b90
