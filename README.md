@@ -500,3 +500,7 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/113.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字字符串和数字相加也会产生连接的字符串
+10. [示例](https://logicwang.github.io/JS/js/114.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/114.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+字符串和数字相加的常见错误 1
