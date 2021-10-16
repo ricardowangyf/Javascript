@@ -561,3 +561,7 @@ NaN 的类型是数字（没错！typeof NaN 返回 number）
 [代码](https://github.com/logicwang/JS/blob/main/js/127.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 Infinity 也是数（typeof Infinity 返回 number）
+25. [示例](https://logicwang.github.io/JS/js/128.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/128.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+前缀为 0x 的常量会被解释为十六进制
