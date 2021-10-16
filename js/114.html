@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>可以使用指数计数法编写极大或极小的数</title>
+    <title>字符串和数字相加的常见错误 1</title>
 </head>
 
 <body>
     <h1>JavaScript 数字</h1>
-    <p>超大或超小的数可通过科学（指数）计数法来写：</p>
+    <p>一个常见的错误是期望这个结果为 30：</p>
     <p id="demo"></p>
     <script>
-        var x = 123e5;
-        var y = 123e-5;
-        document.getElementById("demo").innerHTML = x + "<br>" + y;
+        var x = 10;
+        var y = 20;
+        document.getElementById("demo").innerHTML = "结果是：" + x + y;
     </script>
 </body>
 

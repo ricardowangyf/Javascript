@@ -5,17 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>可以使用指数计数法编写极大或极小的数</title>
+    <title>被字符串除的数不再是数</title>
 </head>
 
 <body>
     <h1>JavaScript 数字</h1>
-    <p>超大或超小的数可通过科学（指数）计数法来写：</p>
+    <p>用非数字字符串进行除法会得到 NaN（Not a Number）：</p>
     <p id="demo"></p>
     <script>
-        var x = 123e5;
-        var y = 123e-5;
-        document.getElementById("demo").innerHTML = x + "<br>" + y;
+        document.getElementById("demo").innerHTML = 100 / "Apple";
     </script>
 </body>
 

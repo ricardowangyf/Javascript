@@ -5,17 +5,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>可以使用指数计数法编写极大或极小的数</title>
+    <title>数字和数字字符串相加也会产生连接的字符串</title>
 </head>
 
 <body>
     <h1>JavaScript 数字</h1>
-    <p>超大或超小的数可通过科学（指数）计数法来写：</p>
+    <p>如果数字和数字字符串相加，结果将是级联字符串：</p>
     <p id="demo"></p>
     <script>
-        var x = 123e5;
-        var y = 123e-5;
-        document.getElementById("demo").innerHTML = x + "<br>" + y;
+        var x = 10;
+        var y = "20";
+        var z = x + y;
+        document.getElementById("demo").innerHTML = z;
     </script>
 </body>
 
