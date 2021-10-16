@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>字符串和数字相加的常见错误 2</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>一个常见的错误是期望这个结果是 102030：</p>
+    <p id="demo"></p>
+    <script>
+        var x = 10;
+        var y = 20;
+        var z = "30";
+        var result = x + y + z;
+        document.getElementById("demo").innerHTML = result;
+    </script>
+</body>
+
+</html>
