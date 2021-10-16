@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全局 JavaScript 函数 isNaN() 判断值是否为数字</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>您可使用全局 JavaScript 函数 isNaN() 来确定某个值是否是数：</p>
+    <p id="demo"></p>
+    <script>
+        var x = 100 / "Apple";
+        document.getElementById("demo").innerHTML = isNaN(x);
+    </script>
+</body>
+
+</html>
