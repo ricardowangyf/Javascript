@@ -553,3 +553,7 @@ NaN 的类型是数字（没错！typeof NaN 返回 number）
 [代码](https://github.com/logicwang/JS/blob/main/js/126.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 如果计算出最大可能数字之外的数字，则返回无穷大（Infinity）
+23. [示例](https://logicwang.github.io/JS/js/127.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/127.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+被零除会生成 Infinity
