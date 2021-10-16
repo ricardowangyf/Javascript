@@ -520,3 +520,27 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/118.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在减法运算时，JavaScript 会尝试把字符串转换为数字
+15. [示例](https://logicwang.github.io/JS/js/119.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/119.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在加法运算时，JavaScript 会尝试把字符串转换为数字
+16. [示例](https://logicwang.github.io/JS/js/120.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/120.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+被字符串除的数不再是数
+17. [示例](https://logicwang.github.io/JS/js/121.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/121.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字除以数字字符串为数字
+18. [示例](https://logicwang.github.io/JS/js/122.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/122.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+全局 JavaScript 函数 isNaN() 判断值是否为数字
+19. [示例](https://logicwang.github.io/JS/js/123.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/123.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在数学运算中使用 NaN 会始终返回 NaN
+20. [示例](https://logicwang.github.io/JS/js/124.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/124.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+在数学字符串运算中使用 NaN 将连接 NaN
