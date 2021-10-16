@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在除法运算时，JavaScript 会尝试把字符串转换为数字</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>在相除时，JavaScript 会尝试把字符串转换为数字：</p>
+    <p id="demo"></p>
+    <script>
+        var x = "100";
+        var y = "10";
+        var z = x / y;
+        document.getElementById("demo").innerHTML = z;
+    </script>
+</body>
+
+</html>
