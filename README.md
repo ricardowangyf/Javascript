@@ -573,3 +573,22 @@ Infinity 也是数（typeof Infinity 返回 number）
 [代码](https://github.com/logicwang/JS/blob/main/js/130.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 toString() 方法能够以十六进制、八进制或二进制输出数
+27. [示例](https://logicwang.github.io/JS/js/131.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/131.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字可以是对象
+28. [示例](https://logicwang.github.io/JS/js/132.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/132.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+数字和对象无法安全地比较
+29. [示例](https://logicwang.github.io/JS/js/133.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/133.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+对象和对象无法安全地比较
+
+#### 15.2 JavaScript  数字方法
+
+1. [示例](https://logicwang.github.io/JS/js/134.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/134.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+toString() 方法将数字转换为字符串
