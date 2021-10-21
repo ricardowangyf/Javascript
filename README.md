@@ -592,3 +592,7 @@ toString() 方法能够以十六进制、八进制或二进制输出数
 [代码](https://github.com/logicwang/JS/blob/main/js/134.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 toString() 方法将数字转换为字符串
+2. [示例](https://logicwang.github.io/JS/js/135.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/135.html)
+[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+valueOf() 方法以数字返回数字
