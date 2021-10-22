@@ -659,3 +659,10 @@ NaN 代表“非数字”
 [代码](https://github.com/logicwang/JS/blob/main/js/151.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对变量使用数字属性将返回 undefined
+
+#### 15.2 JavaScript  数字
+
+1. [示例](https://logicwang.github.io/JS/js/152.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/152.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+Math.PI 返回 PI 的值
