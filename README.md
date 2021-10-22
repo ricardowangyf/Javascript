@@ -628,6 +628,10 @@ toPrecision() 返回指定长度的数字
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 MAX_VALUE 返回 JavaScript 中可能的最大数字
 11. [示例](https://logicwang.github.io/JS/js/144.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/1434.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/144.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 MIN_VALUE 返回 JavaScript 中可能的最小数字
+12. [示例](https://logicwang.github.io/JS/js/145.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/145.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+POSITIVE_INFINITY 表示无穷大
