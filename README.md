@@ -666,3 +666,7 @@ NaN 代表“非数字”
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.PI 返回 PI 的值
+2. [示例](https://logicwang.github.io/JS/js/153.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/153.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+Math.round(x) 返回 x 的 取整值（舍入值）
