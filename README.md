@@ -655,3 +655,7 @@ NaN 代表“非数字”
 [代码](https://github.com/logicwang/JS/blob/main/js/150.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对字符串执行的算术将导致 NaN
+18. [示例](https://logicwang.github.io/JS/js/151.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/151.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+对变量使用数字属性将返回 undefined
