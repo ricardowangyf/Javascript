@@ -462,7 +462,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串拆分入数组 - split()
 
-#### 15.2 JavaScript  数字
+#### 16.2 JavaScript  数字
 
 1. [示例](https://logicwang.github.io/JS/js/105.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
@@ -585,7 +585,7 @@ toString() 方法能够以十六进制、八进制或二进制输出数
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 对象和对象无法安全地比较
 
-#### 15.2 JavaScript  数字方法
+#### 17.2 JavaScript  数字方法
 
 1. [示例](https://logicwang.github.io/JS/js/134.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/134.html)
@@ -660,7 +660,7 @@ NaN 代表“非数字”
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对变量使用数字属性将返回 undefined
 
-#### 15.2 JavaScript  数字
+#### 18.2 JavaScript  数字
 
 1. [示例](https://logicwang.github.io/JS/js/152.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
