@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全局方法 parseInt() 将字符串转换为数字</title>
+</head>
+
+<body>
+    <h1>JavaScript 全局函数</h1>
+    <p>全局 JavaScript 函数 parseInt() 把字符串转换为数字：</p>
+    <p id="demo"></p>
+    <script>
+        document.getElementById("demo").innerHTML =
+            parseInt("10") + "<br>" +
+            parseInt("10.33") + "<br>" +
+            parseInt("10 6") + "<br>" +
+            parseInt("10 years") + "<br>" +
+            parseInt("years 10");
+    </script>
+</body>
+
+</html>
