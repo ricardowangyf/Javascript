@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>toExponential() 返回一个带指数表示法的数字</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字方法</h1>
+    <p>toExponential() 方法返回一个字符串，包含进行舍入的数字并使用指数表示法。</p>
+    <p>可选参数定义小数点后面的位数。</p>
+    <p id="demo"></p>
+    <script>
+        var x = 9.656;
+        document.getElementById("demo").innerHTML =
+            x.toExponential() + "<br>" +
+            x.toExponential(2) + "<br>" +
+            x.toExponential(4) + "<br>" +
+            x.toExponential(6); 
+    </script>
+</body>
+
+</html>
