@@ -651,3 +651,7 @@ NEGATIVE_INFINITY 表示负无穷大
 [代码](https://github.com/logicwang/JS/blob/main/js/149.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 NaN 代表“非数字”
+17. [示例](https://logicwang.github.io/JS/js/150.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/150.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+对字符串执行的算术将导致 NaN
