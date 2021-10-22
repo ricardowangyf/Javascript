@@ -670,3 +670,7 @@ Math.PI 返回 PI 的值
 [代码](https://github.com/logicwang/JS/blob/main/js/153.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.round(x) 返回 x 的 取整值（舍入值）
+3. [示例](https://logicwang.github.io/JS/js/154.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/154.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+Math.pow(x, y) 返回 x 的 y 次方
