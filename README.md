@@ -643,3 +643,7 @@ POSITIVE_INFINITY 表示无穷大
 [代码](https://github.com/logicwang/JS/blob/main/js/147.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 NEGATIVE_INFINITY 表示负无穷大
+15. [示例](https://logicwang.github.io/JS/js/148.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/148.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+溢出时返回 NEGATIVE_INFINITY
