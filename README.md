@@ -604,3 +604,7 @@ toExponential() 返回一个带指数表示法的数字
 [代码](https://github.com/logicwang/JS/blob/main/js/137.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toFixed() 方法将数字四舍五入为指定位的数字
+5. [示例](https://logicwang.github.io/JS/js/138.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/138.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+toPrecision() 返回指定长度的数字
