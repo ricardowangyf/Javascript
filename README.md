@@ -635,3 +635,7 @@ MIN_VALUE 返回 JavaScript 中可能的最小数字
 [代码](https://github.com/logicwang/JS/blob/main/js/145.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 POSITIVE_INFINITY 表示无穷大
+13. [示例](https://logicwang.github.io/JS/js/146.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/146.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+溢出时返回 POSITIVE_INFINITY
