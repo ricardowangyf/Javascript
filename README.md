@@ -647,3 +647,7 @@ NEGATIVE_INFINITY 表示负无穷大
 [代码](https://github.com/logicwang/JS/blob/main/js/148.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 溢出时返回 NEGATIVE_INFINITY
+16. [示例](https://logicwang.github.io/JS/js/149.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/149.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+NaN 代表“非数字”
