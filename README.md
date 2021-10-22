@@ -469,7 +469,6 @@ JavaScript字符串相加
 <<<<<<< HEAD
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 带或不带小数点都可以写数值
-=======
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 带或不带小数点都可以写数值
 2. [示例](https://logicwang.github.io/JS/js/106.html)
@@ -608,3 +607,15 @@ toFixed() 方法将数字四舍五入为指定位的数字
 [代码](https://github.com/logicwang/JS/blob/main/js/138.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toPrecision() 返回指定长度的数字
+6. [示例](https://logicwang.github.io/JS/js/139.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/139.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+全局方法 Number() 将变量转换为数字
+7. [示例](https://logicwang.github.io/JS/js/140.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/140.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+全局方法 Number() 甚至可以将日期转换为数字
+8. [示例](https://logicwang.github.io/JS/js/141.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/141.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+全局方法 parseInt() 将字符串转换为数字
