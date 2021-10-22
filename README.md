@@ -2,34 +2,34 @@
 
 #### 1.1 JavaScript 简介
 
-1. [示例](https://logicwang.github.io/JS/js/1.html)
+1. [示例](https://logicwang.github.io/Javascript/js/1.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/1.html)
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够改变HTML内容
-2. [示例](https://logicwang.github.io/JS/js/2.html)
+2. [示例](https://logicwang.github.io/Javascript/js/2.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/2.html)
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够改变HTML属性
-3. [示例](https://logicwang.github.io/JS/js/3.html)
+3. [示例](https://logicwang.github.io/Javascript/js/3.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/3.html)
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够改变CSS样式
-4. [示例](https://logicwang.github.io/JS/js/4.html)
+4. [示例](https://logicwang.github.io/Javascript/js/4.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/4.html)
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够隐藏HTML元素
-5. [示例](https://logicwang.github.io/JS/js/5.html)
+5. [示例](https://logicwang.github.io/Javascript/js/5.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/5.html)
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够显示隐藏的HTML元素
 
 #### 2.2 JavaScript 使用
 
-1. [示例](https://logicwang.github.io/JS/js/6.html)
+1. [示例](https://logicwang.github.io/Javascript/js/6.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/6.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.aspgit) |
 head标签中的JavaScript
-2. [示例](https://logicwang.github.io/JS/js/7.html)
+2. [示例](https://logicwang.github.io/Javascript/js/7.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/7.html)
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 body中的JavaScript
@@ -674,7 +674,7 @@ Math.round(x) 返回 x 的 取整值（舍入值）
 [代码](https://github.com/logicwang/JS/blob/main/js/154.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.pow(x, y) 返回 x 的 y 次方
-4. [示例](https://logicwang.github.io/JS/js/155.html)
+4. [示例](https://wangyf2020.gitee.io/javascript/js/155.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/155.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.sqrt(x) 返回 x 的平方
