@@ -590,9 +590,17 @@ toString() 方法能够以十六进制、八进制或二进制输出数
 
 1. [示例](https://logicwang.github.io/JS/js/134.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/134.html)
-[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toString() 方法将数字转换为字符串
 2. [示例](https://logicwang.github.io/JS/js/135.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/135.html)
-[章节](https://www.w3school.com.cn/js/js_numbers.asp) |
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 valueOf() 方法以数字返回数字
+3. [示例](https://logicwang.github.io/JS/js/136.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/136.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+toExponential() 返回一个带指数表示法的数字
+4. [示例](https://logicwang.github.io/JS/js/137.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/137.html)
+[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+toFixed() 方法将数字四舍五入为指定位的数字
