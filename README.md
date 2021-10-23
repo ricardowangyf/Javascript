@@ -547,8 +547,7 @@ JavaScript字符串相加
 21. [示例](https://logicwang.github.io/Javascript/js/125.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/125.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
-NaN的类型是数字(没错！typeof NaN返回number）
-在数学字符串运算中使用 NaN 将连接 NaN
+NaN的类型是数字(没错！typeof NaN返回number)在数学字符串运算中使用NaN将连接 NaN
 22. [示例](https://logicwang.github.io/Javascript/js/126.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/126.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
