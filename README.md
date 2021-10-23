@@ -656,7 +656,7 @@ NaN 代表“非数字”
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对变量使用数字属性将返回 undefined
 
-#### 18.1 JavaScript  数字
+#### 18.1 JavaScript  数学
 
 1. [示例](https://logicwang.github.io/Javascript/js/152.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
@@ -685,4 +685,4 @@ Math.ceil(x) 返回 x 的向上舍入值
 7. [示例](https://logicwang.github.io/Javascript/js/158.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/158.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
-Math.ceil(x) 返回 x 的向上舍入值
+Math.floor(x) 返回 x 的向下舍入值
