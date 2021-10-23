@@ -682,3 +682,7 @@ Math.abs(x) 返回 x 的绝对值
 [代码](https://github.com/logicwang/JS/blob/main/js/157.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.ceil(x) 返回 x 的向上舍入值
+7. [示例](https://logicwang.github.io/Javascript/js/158.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/158.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+Math.ceil(x) 返回 x 的向上舍入值
