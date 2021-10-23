@@ -660,17 +660,21 @@ NaN 代表“非数字”
 
 1. [示例](https://logicwang.github.io/Javascript/js/152.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
-[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.PI 返回 PI 的值
 2. [示例](https://logicwang.github.io/Javascript/js/153.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/153.html)
-[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.round(x) 返回 x 的 取整值（舍入值）
 3. [示例](https://logicwang.github.io/Javascript/js/154.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/154.html)
-[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.pow(x, y) 返回 x 的 y 次方
 4. [示例](https://logicwang.github.io/Javascript/js/155.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/155.html)
-[章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+Math.sqrt(x) 返回 x 的平方
+5. [示例](https://logicwang.github.io/Javascript/js/156.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/156.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.sqrt(x) 返回 x 的平方
