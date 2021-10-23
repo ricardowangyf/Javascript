@@ -23,7 +23,7 @@ JavaScript能够隐藏HTML元素
 [章节](https://www.w3school.com.cn/js/js_intro.asp) |
 JavaScript能够显示隐藏的HTML元素
 
-#### 2.2 JavaScript 使用
+#### 2.1 JavaScript 使用
 
 1. [示例](https://logicwang.github.io/Javascript/js/6.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/6.html)
@@ -46,7 +46,7 @@ body中的JavaScript
 [章节](https://www.w3school.com.cn/js/js_shiyong.asp) |
 外部url中的JavaScript
 
-#### 3.2 JavaScript 输出
+#### 3.1 JavaScript 输出
 
 1. [示例](https://logicwang.github.io/Javascript/js/11.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/11.html)
@@ -65,7 +65,7 @@ body中的JavaScript
 [章节](https://www.w3school.com.cn/js/js_output.asp) |
 写入浏览器控制台
 
-#### 4.2 JavaScript 语法
+#### 4.1 JavaScript 语法
 
 1. [示例](https://logicwang.github.io/Javascript/js/15.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/15.html)
@@ -116,7 +116,7 @@ JavaScript注释
 [章节](https://www.w3school.com.cn/js/js_syntax.asp) |
 JavaScript对大小写敏感
 
-#### 5.2 JavaScript 语句
+#### 5.1 JavaScript 语句
 
 1. [示例](https://logicwang.github.io/Javascript/js/27.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/27.html)
@@ -143,7 +143,7 @@ JavaScript语句可以在代码块中组合在一起
 [章节](https://www.w3school.com.cn/js/js_statements.asp) |
 可以在运算符或逗号之后对代码折行
 
-#### 6.2 JavaScript 注释
+#### 6.1 JavaScript 注释
 
 1. [示例](https://logicwang.github.io/Javascript/js/33.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/33.html)
@@ -166,7 +166,7 @@ JavaScript语句可以在代码块中组合在一起
 [章节](https://www.w3school.com.cn/js/js_comments.asp) |
 JavaScript变量  
 
-#### 7.2 JavaScript 变量
+#### 7.1 JavaScript 变量
 
 1. [示例](https://logicwang.github.io/Javascript/js/38.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/38.html)
@@ -217,7 +217,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 数值和字符串相加
 
-#### 8.2 JavaScript 算术
+#### 8.1 JavaScript 算术
 
 1. [示例](https://logicwang.github.io/Javascript/js/50.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/50.html)
@@ -248,7 +248,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_arithmetic.asp) |
 递减 (--) 运算符
 
-#### 9.2 JavaScript 赋值
+#### 9.1 JavaScript 赋值
 
 1. [示例](https://logicwang.github.io/Javascript/js/57.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/57.html)
@@ -275,7 +275,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_assignment.asp) |
 %= 赋值运算符
 
-#### 10.2 JavaScript 字符串级联
+#### 10.1 JavaScript 字符串级联
 
 1. [示例](https://logicwang.github.io/Javascript/js/63.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/63.html)
@@ -299,7 +299,7 @@ JavaScript字符串相加
 对字符串和数字相加
 
 
-#### 11.2 JavaScript 数据类型
+#### 11.1 JavaScript 数据类型
 
 1. [示例](https://logicwang.github.io/Javascript/js/68.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/68.html)
@@ -338,7 +338,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个空变量
 
-#### 12.2 JavaScript 对象
+#### 12.1 JavaScript 对象
 
 1. [示例](https://logicwang.github.io/Javascript/js/77.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/77.html)
@@ -369,7 +369,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 以方法访问函数属性
 
-#### 13.2 JavaScript  函数
+#### 13.1 JavaScript  函数
 
 1. [示例](https://logicwang.github.io/Javascript/js/84.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/84.html)
@@ -396,7 +396,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 没有 () 的函数
 
-#### 14.2 JavaScript  事件
+#### 14.1 JavaScript  事件
 
 1. [示例](https://logicwang.github.io/Javascript/js/90.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/90.html)
@@ -411,7 +411,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_events.asp) |
 调用函数的onclick事件
 
-#### 15.2 JavaScript  字符串
+#### 15.1 JavaScript  字符串
 
 1. [示例](https://logicwang.github.io/Javascript/js/93.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/93.html)
@@ -462,7 +462,7 @@ JavaScript字符串相加
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串拆分入数组 - split()
 
-#### 16.2 JavaScript  数字
+#### 16.1 JavaScript  数字
 
 1. [示例](https://logicwang.github.io/Javascript/js/105.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
@@ -581,7 +581,7 @@ toString() 方法能够以十六进制、八进制或二进制输出数
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 对象和对象无法安全地比较
 
-#### 17.2 JavaScript  数字方法
+#### 17.1 JavaScript  数字方法
 
 1. [示例](https://logicwang.github.io/Javascript/js/134.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/134.html)
@@ -656,7 +656,7 @@ NaN 代表“非数字”
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对变量使用数字属性将返回 undefined
 
-#### 18.2 JavaScript  数字
+#### 18.1 JavaScript  数字
 
 1. [示例](https://logicwang.github.io/Javascript/js/152.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
