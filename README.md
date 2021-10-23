@@ -466,7 +466,6 @@ JavaScript字符串相加
 
 1. [示例]https://logicwang.github.io/Javascript/js/105.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
-<<<<<<< HEAD
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 带或不带小数点都可以写数值
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
