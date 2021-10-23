@@ -677,4 +677,4 @@ Math.sqrt(x) 返回 x 的平方
 5. [示例](https://logicwang.github.io/Javascript/js/156.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/156.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
-Math.sqrt(x) 返回 x 的平方
+Math.abs(x) 返回 x 的绝对值
