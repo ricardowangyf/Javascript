@@ -329,352 +329,352 @@ JavaScript字符串相加
 [代码](https://github.com/logicwang/JS/blob/main/js/74.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 对一个字符串和两个数字相加
-8. [示例](https://logicwang.github.io/JS/js/75.html)
+8. [示例](https://logicwang.github.io/Javascript/js/75.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/75.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个未定义变量
-9. [示例](https://logicwang.github.io/JS/js/76.html)
+9. [示例](https://logicwang.github.io/Javascript/js/76.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/76.html)
 [章节](https://www.w3school.com.cn/js/js_datatypes.asp) |
 一个空变量
 
 #### 12.2 JavaScript 对象
 
-1. [示例](https://logicwang.github.io/JS/js/77.html)
+1. [示例](https://logicwang.github.io/Javascript/js/77.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/77.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 JavaScript 变量
-2. [示例](https://logicwang.github.io/JS/js/78.html)
+2. [示例](https://logicwang.github.io/Javascript/js/78.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/78.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 JavaScript 对象
-3. [示例](https://logicwang.github.io/JS/js/79.html)
+3. [示例]https://logicwang.github.io/Javascript/js/79.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/79.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 person 对象（单行）
-4. [示例](https://logicwang.github.io/JS/js/80.html)
+4. [示例](https://logicwang.github.io/Javascript/js/80.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/80.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 创建 person 对象（多行）
-5. [示例](https://logicwang.github.io/JS/js/81.html)
+5. [示例](https://logicwang.github.io/Javascript/js/81.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/81.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 使用 .property 访问对象属性
-6. [示例](https://logicwang.github.io/JS/js/82.html)
+6. [示例](https://logicwang.github.io/Javascript/js/82.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/82.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 使用 property 访问对象属性
-7. [示例](https://logicwang.github.io/JS/js/83.html)
+7. [示例](https://logicwang.github.io/Javascript/js/83.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/83.html)
 [章节](https://www.w3school.com.cn/js/js_objects.asp) |
 以方法访问函数属性
 
 #### 13.2 JavaScript  函数
 
-1. [示例](https://logicwang.github.io/JS/js/84.html)
+1. [示例](https://logicwang.github.io/Javascript/js/84.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/84.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 一个简单的函数
-2. [示例](https://logicwang.github.io/JS/js/85.html)
+2. [示例](https://logicwang.github.io/Javascript/js/85.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/85.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 带一个参数的函数
-3. [示例](https://logicwang.github.io/JS/js/86.html)
+3. [示例](https://logicwang.github.io/Javascript/js/86.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/86.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 带一个参数的函数 2
-4. [示例](https://logicwang.github.io/JS/js/87.html)
+4. [示例](https://logicwang.github.io/Javascript/js/87.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/87.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 返回一个值的函数
-5. [示例](https://logicwang.github.io/JS/js/88.html)
+5. [示例](https://logicwang.github.io/Javascript/js/88.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/88.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 把华氏度转换为摄氏度的函数
-6. [示例](https://logicwang.github.io/JS/js/89.html)
+6. [示例](https://logicwang.github.io/Javascript/js/89.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/89.html)
 [章节](https://www.w3school.com.cn/js/js_functions.asp) |
 没有 () 的函数
 
 #### 14.2 JavaScript  事件
 
-1. [示例](https://logicwang.github.io/JS/js/90.html)
+1. [示例](https://logicwang.github.io/Javascript/js/90.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/90.html)
 [章节](https://www.w3school.com.cn/js/js_events.asp) |
 更改HTML元素的onclick事件
-2. [示例](https://logicwang.github.io/JS/js/91.html)
+2. [示例](https://logicwang.github.io/Javascript/js/91.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/91.html)
 [章节](https://www.w3school.com.cn/js/js_events.asp) |
 更改元素本身的onclick事件
-3. [示例](https://logicwang.github.io/JS/js/92.html)
+3. [示例](https://logicwang.github.io/Javascript/js/92.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/92.html)
 [章节](https://www.w3school.com.cn/js/js_events.asp) |
 调用函数的onclick事件
 
 #### 15.2 JavaScript  字符串
 
-1. [示例](https://logicwang.github.io/JS/js/93.html)
+1. [示例](https://logicwang.github.io/Javascript/js/93.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/93.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 字符串可由单引号或双引号包围
-2. [示例](https://logicwang.github.io/JS/js/94.html)
+2. [示例](https://logicwang.github.io/Javascript/js/94.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/94.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 展示一些字符串实例
-3. [示例](https://logicwang.github.io/JS/js/95.html)
+3. [示例](https://logicwang.github.io/Javascript/js/95.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/95.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 在引号前添加反斜杠被认定为引号
-4. [示例](https://logicwang.github.io/JS/js/96.html)
+4. [示例](https://logicwang.github.io/Javascript/js/96.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/96.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 确定字符串的长度
-5. [示例](https://logicwang.github.io/JS/js/97.html)
+5. [示例](https://logicwang.github.io/Javascript/js/97.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/97.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 用反斜杠对文本字符串折行
-6. [示例](https://logicwang.github.io/JS/js/98.html)
+6. [示例](https://logicwang.github.io/Javascript/js/98.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/98.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 无法对代码使用反斜杠折行
-7. [示例](https://logicwang.github.io/JS/js/99.html)
+7. [示例](https://logicwang.github.io/Javascript/js/99.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/99.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 确定文本在字符串中首次出现的位置 - indexOf()
-8. [示例](https://logicwang.github.io/JS/js/100.html)
+8. [示例](https://logicwang.github.io/Javascript/js/100.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/99.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 在字符串中搜索文本并在找到后返回这段文本 - match()
-9. [示例](https://logicwang.github.io/JS/js/101.html)
+9. [示例](https://logicwang.github.io/Javascript/js/101.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/99.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 替换字符串中的字符 - replace()
-10. [示例](https://logicwang.github.io/JS/js/102.html)
+10. [示例](https://logicwang.github.io/Javascript/js/102.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/102.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串转换为大写 - toUpperCase()
-11. [示例](https://logicwang.github.io/JS/js/103.html)
+11. [示例](https://logicwang.github.io/Javascript/js/103.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/103.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串转换为小写 - toUpperCase()
-12. [示例](https://logicwang.github.io/JS/js/104.html)
+12. [示例](https://logicwang.github.io/Javascript/js/104.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/104.html)
 [章节](https://www.w3school.com.cn/js/js_strings.asp) |
 把字符串拆分入数组 - split()
 
 #### 16.2 JavaScript  数字
 
-1. [示例](https://logicwang.github.io/JS/js/105.html)
+1. [示例]https://logicwang.github.io/Javascript/js/105.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/105.html)
 <<<<<<< HEAD
 [章节](https://www.w3school.com.cn/js/js_variables.asp) |
 带或不带小数点都可以写数值
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 带或不带小数点都可以写数值
-2. [示例](https://logicwang.github.io/JS/js/106.html)
+2. [示例](https://logicwang.github.io/Javascript/js/106.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/106.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 可以使用指数计数法编写极大或极小的数
-3. [示例](https://logicwang.github.io/JS/js/107.html)
+3. [示例](https://logicwang.github.io/Javascript/js/107.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/107.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字会被精确到 15 位
-4. [示例](https://logicwang.github.io/JS/js/108.html)
+4. [示例](https://logicwang.github.io/Javascript/js/108.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/108.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 浮点算术不总是 100% 精确
-5. [示例](https://logicwang.github.io/JS/js/109.html)
+5. [示例](https://logicwang.github.io/Javascript/js/109.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/109.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 但是可以通过乘并除以 10 解决此问题
-6. [示例](https://logicwang.github.io/JS/js/110.html)
+6. [示例](https://logicwang.github.io/Javascript/js/110.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/110.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 两数相加会产生新数
-7. [示例](https://logicwang.github.io/JS/js/111.html)
+7. [示例](https://logicwang.github.io/Javascript/js/111.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/111.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 两个数字字符串相加会产生连接的字符串
-8. [示例](https://logicwang.github.io/JS/js/112.html)
+8. [示例](https://logicwang.github.io/Javascript/js/112.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/112.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字和数字字符串相加也会产生连接的字符串
-9. [示例](https://logicwang.github.io/JS/js/113.html)
+9. [示例](https://logicwang.github.io/Javascript/js/113.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/113.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字字符串和数字相加也会产生连接的字符串
-10. [示例](https://logicwang.github.io/JS/js/114.html)
+10. [示例](https://logicwang.github.io/Javascript/js/114.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/114.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 字符串和数字相加的常见错误 1
-11. [示例](https://logicwang.github.io/JS/js/115.html)
+11. [示例](https://logicwang.github.io/Javascript/js/115.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/115.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 字符串和数字相加的常见错误 2
-12. [示例](https://logicwang.github.io/JS/js/116.html)
+12. [示例](https://logicwang.github.io/Javascript/js/116.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/116.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在除法运算时，JavaScript 会尝试把字符串转换为数字
-13. [示例](https://logicwang.github.io/JS/js/117.html)
+13. [示例](https://logicwang.github.io/Javascript/js/117.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/117.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在乘法运算时，JavaScript 会尝试把字符串转换为数字
-14. [示例](https://logicwang.github.io/JS/js/118.html)
+14. [示例](https://logicwang.github.io/Javascript/js/118.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/118.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在减法运算时，JavaScript 会尝试把字符串转换为数字
-15. [示例](https://logicwang.github.io/JS/js/119.html)
+15. [示例](https://logicwang.github.io/Javascript/js/119.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/119.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在加法运算时，JavaScript 会尝试把字符串转换为数字
-16. [示例](https://logicwang.github.io/JS/js/120.html)
+16. [示例](https://logicwang.github.io/Javascript/js/120.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/120.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 被字符串除的数不再是数
-17. [示例](https://logicwang.github.io/JS/js/121.html)
+17. [示例](https://logicwang.github.io/Javascript/js/121.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/121.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字除以数字字符串为数字
-18. [示例](https://logicwang.github.io/JS/js/122.html)
+18. [示例](https://logicwang.github.io/Javascript/js/122.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/122.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 全局 JavaScript 函数 isNaN() 判断值是否为数字
-19. [示例](https://logicwang.github.io/JS/js/123.html)
+19. [示例](https://logicwang.github.io/Javascript/js/123.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/123.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在数学运算中使用 NaN 会始终返回 NaN
-20. [示例](https://logicwang.github.io/JS/js/124.html)
+20. [示例](https://logicwang.github.io/Javascript/js/124.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/124.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 在数学字符串运算中使用 NaN 将连接 NaN
-21. [示例](https://logicwang.github.io/JS/js/125.html)
+21. [示例](https://logicwang.github.io/Javascript/js/125.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/125.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 NaN 的类型是数字（没错！typeof NaN 返回 number）
 在数学字符串运算中使用 NaN 将连接 NaN
-22. [示例](https://logicwang.github.io/JS/js/126.html)
+22. [示例](https://logicwang.github.io/Javascript/js/126.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/126.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 如果计算出最大可能数字之外的数字，则返回无穷大（Infinity）
-23. [示例](https://logicwang.github.io/JS/js/127.html)
+23. [示例](https://logicwang.github.io/Javascript/js/127.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/127.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 被零除会生成 Infinity
-24. [示例](https://logicwang.github.io/JS/js/128.html)
+24. [示例](https://logicwang.github.io/Javascript/js/128.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/128.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 Infinity 也是数（typeof Infinity 返回 number）
-25. [示例](https://logicwang.github.io/JS/js/129.html)
+25. [示例](https://logicwang.github.io/Javascript/js/129.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/129.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 前缀为 0x 的常量会被解释为十六进制
-26. [示例](https://logicwang.github.io/JS/js/130.html)
+26. [示例](https://logicwang.github.io/Javascript/js/130.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/130.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 toString() 方法能够以十六进制、八进制或二进制输出数
-27. [示例](https://logicwang.github.io/JS/js/131.html)
+27. [示例](https://logicwang.github.io/Javascript/js/131.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/131.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字可以是对象
-28. [示例](https://logicwang.github.io/JS/js/132.html)
+28. [示例](https://logicwang.github.io/Javascript/js/132.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/132.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 数字和对象无法安全地比较
-29. [示例](https://logicwang.github.io/JS/js/133.html)
+29. [示例](https://logicwang.github.io/Javascript/js/133.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/133.html)
 [章节](https://www.w3school.com.cn/js/js_numbers.asp) |
 对象和对象无法安全地比较
 
 #### 17.2 JavaScript  数字方法
 
-1. [示例](https://logicwang.github.io/JS/js/134.html)
+1. [示例](https://logicwang.github.io/Javascript/js/134.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/134.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toString() 方法将数字转换为字符串
-2. [示例](https://logicwang.github.io/JS/js/135.html)
+2. [示例](https://logicwang.github.io/Javascript/js/135.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/135.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 valueOf() 方法以数字返回数字
-3. [示例](https://logicwang.github.io/JS/js/136.html)
+3. [示例](https://logicwang.github.io/Javascript/js/136.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/136.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toExponential() 返回一个带指数表示法的数字
-4. [示例](https://logicwang.github.io/JS/js/137.html)
+4. [示例](https://logicwang.github.io/Javascript/js/137.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/137.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toFixed() 方法将数字四舍五入为指定位的数字
-5. [示例](https://logicwang.github.io/JS/js/138.html)
+5. [示例](https://logicwang.github.io/Javascript/js/138.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/138.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 toPrecision() 返回指定长度的数字
-6. [示例](https://logicwang.github.io/JS/js/139.html)
+6. [示例](https://logicwang.github.io/Javascript/js/139.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/139.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 全局方法 Number() 将变量转换为数字
-7. [示例](https://logicwang.github.io/JS/js/140.html)
+7. [示例](https://logicwang.github.io/Javascript/js/140.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/140.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 全局方法 Number() 甚至可以将日期转换为数字
-8. [示例](https://logicwang.github.io/JS/js/141.html)
+8. [示例](https://logicwang.github.io/Javascript/js/141.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/141.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 全局方法 parseInt() 将字符串转换为数字
-9. [示例](https://logicwang.github.io/JS/js/142.html)
+9. [示例](https://logicwang.github.io/Javascript/js/142.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/142.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 全局方法 parseFloat() 将字符串转换为数字
-10. [示例](https://logicwang.github.io/JS/js/143.html)
+10. [示例](https://logicwang.github.io/Javascript/js/143.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/143.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 MAX_VALUE 返回 JavaScript 中可能的最大数字
-11. [示例](https://logicwang.github.io/JS/js/144.html)
+11. [示例](https://logicwang.github.io/Javascript/js/144.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/144.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 MIN_VALUE 返回 JavaScript 中可能的最小数字
-12. [示例](https://logicwang.github.io/JS/js/145.html)
+12. [示例](https://logicwang.github.io/Javascript/js/145.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/145.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 POSITIVE_INFINITY 表示无穷大
-13. [示例](https://logicwang.github.io/JS/js/146.html)
+13. [示例](https://logicwang.github.io/Javascript/js/146.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/146.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 溢出时返回 POSITIVE_INFINITY
-14. [示例](https://logicwang.github.io/JS/js/147.html)
+14. [示例](https://logicwang.github.io/Javascript/js/147.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/147.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 NEGATIVE_INFINITY 表示负无穷大
-15. [示例](https://logicwang.github.io/JS/js/148.html)
+15. [示例](https://logicwang.github.io/Javascript/js/148.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/148.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 溢出时返回 NEGATIVE_INFINITY
-16. [示例](https://logicwang.github.io/JS/js/149.html)
+16. [示例](https://logicwang.github.io/Javascript/js/149.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/149.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 NaN 代表“非数字”
-17. [示例](https://logicwang.github.io/JS/js/150.html)
+17. [示例](https://logicwang.github.io/Javascript/js/150.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/150.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对字符串执行的算术将导致 NaN
-18. [示例](https://logicwang.github.io/JS/js/151.html)
+18. [示例](https://logicwang.github.io/Javascript/js/151.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/151.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 对变量使用数字属性将返回 undefined
 
 #### 18.2 JavaScript  数字
 
-1. [示例](https://logicwang.github.io/JS/js/152.html)
+1. [示例](https://logicwang.github.io/Javascript/js/152.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/152.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.PI 返回 PI 的值
-2. [示例](https://logicwang.github.io/JS/js/153.html)
+2. [示例](https://logicwang.github.io/Javascript/js/153.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/153.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.round(x) 返回 x 的 取整值（舍入值）
-3. [示例](https://logicwang.github.io/JS/js/154.html)
+3. [示例](https://logicwang.github.io/Javascript/js/154.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/154.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.pow(x, y) 返回 x 的 y 次方
-4. [示例](https://wangyf2020.gitee.io/javascript/js/155.html)
+4. [示例](https://logicwang.github.io/Javascript/js/155.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/155.html)
 [章节](https://www.w3school.com.cn/js/js_number_methods.asp) |
 Math.sqrt(x) 返回 x 的平方
