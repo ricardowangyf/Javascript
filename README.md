@@ -694,3 +694,7 @@ Math.sin(x) 返回角度 x（以弧度计）的正弦
 [代码](https://github.com/logicwang/JS/blob/main/js/160.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.cos(x) 返回角度 x（以弧度计）的余弦
+10. [示例](https://logicwang.github.io/Javascript/js/161.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/161.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+Math.max() 返回参数列表中的最高值
