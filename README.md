@@ -690,3 +690,7 @@ Math.floor(x) 返回 x 的向下舍入值
 [代码](https://github.com/logicwang/JS/blob/main/js/159.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.sin(x) 返回角度 x（以弧度计）的正弦
+9. [示例](https://logicwang.github.io/Javascript/js/160.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/160.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+Math.cos(x) 返回角度 x（以弧度计）的余弦
