@@ -1,12 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>将数组的所有元素连接成一个字符串 - join()</title>
 </head>
+
 <body>
-    
+    <h1>JavaScript 数组方法</h1>
+    <h2>join()</h2>
+    <p>join() 方法将数组元素连接成一个字符串。</p>
+    <p>在这个例子中我们使用“*”作为元素之间的分隔符：</p>
+    <p id="demo"></p>
+    <script>
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        document.getElementById("demo").innerHTML = fruits.join(" * ");
+    </script>
 </body>
+
 </html>
