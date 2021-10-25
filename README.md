@@ -791,3 +791,7 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/182.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 更改数组元素
+5. [示例](https://logicwang.github.io/Javascript/js/183.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/183.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+访问整个数组
