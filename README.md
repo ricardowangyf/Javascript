@@ -698,3 +698,18 @@ Math.cos(x) 返回角度 x（以弧度计）的余弦
 [代码](https://github.com/logicwang/JS/blob/main/js/161.html)
 [章节](https://www.w3school.com.cn/js/js_math.asp) |
 Math.max() 返回参数列表中的最高值
+11. [示例](https://logicwang.github.io/Javascript/js/162.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/162.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+Math.min() 返回参数列表中的最低值
+12. [示例](https://logicwang.github.io/Javascript/js/163.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/163.html)
+[章节](https://www.w3school.com.cn/js/js_math.asp) |
+把摄氏度转换为华氏度
+
+#### 19.1 JavaScript   随机
+
+1. [示例](https://logicwang.github.io/Javascript/js/164.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/164.html)
+[章节](https://www.w3school.com.cn/js/js_random.asp) |
+Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整数
