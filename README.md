@@ -838,3 +838,27 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/193.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 连接两个数组 - concat()
+5. [示例](https://logicwang.github.io/Javascript/js/194.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/194.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+连接三个数组 - concat()
+6. [示例](https://logicwang.github.io/Javascript/js/195.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/195.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+将一个元素添加到数组中的位置 2 - splice()
+7. [示例](https://logicwang.github.io/Javascript/js/196.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/196.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+把数组转换为字符串 - toString()
+8. [示例](https://logicwang.github.io/Javascript/js/197.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/197.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+把新元素添加到数组的开头 - unshift()
+9. [示例](https://logicwang.github.io/Javascript/js/198.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/198.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+删除数组中的第一个元素 - shift()
+10. [示例](https://logicwang.github.io/Javascript/js/199.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/199.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+选取数组中的元素 - slice()
