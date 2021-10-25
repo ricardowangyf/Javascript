@@ -834,3 +834,7 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/192.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 将数组的所有元素连接成一个字符串 - join()
+4. [示例](https://logicwang.github.io/Javascript/js/193.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/193.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+连接两个数组 - concat()
