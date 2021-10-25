@@ -713,3 +713,7 @@ Math.min() 返回参数列表中的最低值
 [代码](https://github.com/logicwang/JS/blob/main/js/164.html)
 [章节](https://www.w3school.com.cn/js/js_random.asp) |
 Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整数
+2. [示例](https://logicwang.github.io/Javascript/js/165.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/165.html)
+[章节](https://www.w3school.com.cn/js/js_random.asp) |
+如何返回介于 0 与 9 之间（都包括）的随机整数
