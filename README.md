@@ -741,3 +741,10 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/171.html)
 [章节](https://www.w3school.com.cn/js/js_random.asp) |
 如何返回介于 x 与 y 之间（都包括）的随机整数
+
+#### 20.1 JavaScript   日期
+
+8. [示例](https://logicwang.github.io/Javascript/js/172.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/172.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+使用 Date() 来显示今天的日期和时间
