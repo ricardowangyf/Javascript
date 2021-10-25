@@ -768,3 +768,7 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/177.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 使用 getDay() 以及一个数组以名称显示星期名
+7. [示例](https://logicwang.github.io/Javascript/js/178.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/178.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+显示时钟
