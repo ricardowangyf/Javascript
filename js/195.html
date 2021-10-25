@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>将一个元素添加到数组中的位置 2 - splice()</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组方法</h1>
+    <h2>splice()</h2>
+    <p>splice() 方法将新元素添加到数组中。</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo1"></p>
+    <p id="demo2"></p>
+    <script>
+        var fruits = ["A", "Q", "P"];
+        document.getElementById("demo1").innerHTML = "原数组:<br>" + fruits;
+        function myFunction() {
+            fruits.splice(2, 0, "Lom", "shit");
+            document.getElementById("demo2").innerHTML = "新数组:<br>" + fruits;
+        }
+    </script>
+
+</body>
+
+</html>
