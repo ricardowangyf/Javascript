@@ -772,3 +772,10 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/178.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 显示时钟
+
+#### 20.1 JavaScript   数组
+
+1. [示例](https://logicwang.github.io/Javascript/js/179.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/179.html)
+[章节](https://www.w3school.com.cn/js/js_dates.asp) |
+创建数组 1
