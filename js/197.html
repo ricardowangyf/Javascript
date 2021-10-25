@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>把新元素添加到数组的开头 - unshift()</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组方法</h1>
+    <h2>unshift()</h2>
+    <p>unshift() 方法将新元素添加到数组的开头。</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo"></p>
+    <script>
+        var fruits = ["P", "A", "L", "V"];
+        document.getElementById("demo").innerHTML = fruits;
+
+        
+        function myFunction() {
+            fruits.unshift("L");
+            document.getElementById("demo").innerHTML = fruits;
+        }
+    </script>
+</body>
+
+</html>
