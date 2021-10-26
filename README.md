@@ -968,3 +968,22 @@ Array.find()
 [代码](https://github.com/logicwang/JS/blob/main/js/224.html)
 [章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
 Array.findIndex()
+
+#### 23.1 JavaScript    类型转换
+
+1. [示例](https://logicwang.github.io/Javascript/js/225.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/225.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+显示所有变量的类型
+2. [示例](https://logicwang.github.io/Javascript/js/226.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/226.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+显示所有变量类型的构造器
+3. [示例](https://logicwang.github.io/Javascript/js/227.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/227.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+使用 String() 把数转换为字符串
+4. [示例](https://logicwang.github.io/Javascript/js/228.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/228.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+使用 toString() 把数转换为字符串
