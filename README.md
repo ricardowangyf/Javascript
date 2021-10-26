@@ -922,9 +922,21 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
 按字符串属性排序对象
 
-#### 22.1 JavaScript     数组迭代
+#### 22.1 JavaScript    数组迭代
 
 1. [示例](https://logicwang.github.io/Javascript/js/214.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/214.html)
 [章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
 Array.forEach()
+2. [示例](https://logicwang.github.io/Javascript/js/215.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/215.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.map()
+3. [示例](https://logicwang.github.io/Javascript/js/216.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/216.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.filter()
+4. [示例](https://logicwang.github.io/Javascript/js/217.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/217.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.reduce()
