@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>显示所有变量的类型</title>
+</head>
+
+<body>
+    <h2>JavaScript typeof 运算符</h2>
+    <p>typeof 运算符返回变量、对象、函数或表达式的类型。</p>
+    <p id="demo"></p>
+    <script>
+        document.getElementById("demo").innerHTML =
+            typeof "John" + "<br>" +
+            typeof 3.14 + "<br>" +
+            typeof NaN + "<br>" +
+            typeof false + "<br>" +
+            typeof [1, 2, 3, 4] + "<br>" +
+            typeof { name: 'John', age: 34 } + "<br>" +
+            typeof new Date() + "<br>" +
+            typeof function () { } + "<br>" +
+            typeof myCar + "<br>" +
+            typeof null;
+    </script>
+</body>
+
+</html>
