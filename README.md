@@ -940,3 +940,19 @@ Array.filter()
 [代码](https://github.com/logicwang/JS/blob/main/js/217.html)
 [章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
 Array.reduce()
+5. [示例](https://logicwang.github.io/Javascript/js/218.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/218.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.reduceRight()
+6. [示例](https://logicwang.github.io/Javascript/js/219.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/219.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.every()
+7. [示例](https://logicwang.github.io/Javascript/js/220.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/220.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.some()
+8. [示例](https://logicwang.github.io/Javascript/js/221.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/221.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.indexOf()
