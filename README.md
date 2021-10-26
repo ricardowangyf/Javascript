@@ -839,7 +839,7 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 连接两个数组 - concat()
 5. [示例](https://logicwang.github.io/Javascript/js/194.html)
-[代码](https://github.com/logicwang/JS/blob/main/js/194.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/194.html)   
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 连接三个数组 - concat()
 6. [示例](https://logicwang.github.io/Javascript/js/195.html)
@@ -862,3 +862,69 @@ Math.random() 返回介于 0（包括）与 1（不包括）之间的随机整�
 [代码](https://github.com/logicwang/JS/blob/main/js/199.html)
 [章节](https://www.w3school.com.cn/js/js_dates.asp) |
 选取数组中的元素 - slice()
+
+#### 22.1 JavaScript    数组排序
+
+1. [示例](https://logicwang.github.io/Javascript/js/200.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/200.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按升序对数组排序
+2. [示例](https://logicwang.github.io/Javascript/js/201.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/201.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按降序对数组排序
+3. [示例](https://logicwang.github.io/Javascript/js/202.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/202.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按升序排列数字
+4. [示例](https://logicwang.github.io/Javascript/js/203.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/203.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按降序排列数字
+5. [示例](https://logicwang.github.io/Javascript/js/204.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/204.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+排序数字（按字母顺序或数字顺序）
+6. [示例](https://logicwang.github.io/Javascript/js/205.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/205.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按随机顺序排序数组中的数字
+7. [示例](https://logicwang.github.io/Javascript/js/206.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/206.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+确定数组中最小的数
+8. [示例](https://logicwang.github.io/Javascript/js/207.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/207.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+确定数组中最大的数
+9. [示例](https://logicwang.github.io/Javascript/js/208.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/208.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+使用 Math.min() 确定数组中最小的数
+10. [示例](https://logicwang.github.io/Javascript/js/209.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/209.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+使用 Math.max() 确定数组中最大的数
+11. [示例](https://logicwang.github.io/Javascript/js/210.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/210.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+使用“自制的” myArrayMin 方法
+12. [示例](https://logicwang.github.io/Javascript/js/211.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/211.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+使用“自制的” myArrayMax 方法
+13. [示例](https://logicwang.github.io/Javascript/js/212.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/212.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按数字属性排序对象
+14. [示例](https://logicwang.github.io/Javascript/js/213.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/213.html)
+[章节](https://www.w3school.com.cn/js/js_array_sort.asp) |
+按字符串属性排序对象
+
+#### 22.1 JavaScript     数组迭代
+
+1. [示例](https://logicwang.github.io/Javascript/js/214.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/214.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.forEach()
