@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用“自制的” myArrayMax 方法</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组排序</h1>
+    <p>最高值是：<span id="demo"></span></p>
+    <script>
+        var points = [40, 100, 1, 5, 25, 10];
+        document.getElementById("demo").innerHTML = myArrayMax(points);
+
+        function myArrayMax(arr) {
+            var len = arr.length;
+            var max = -Infinity;
+            while (len--) {
+                if (arr[len] > max) {
+                    max = arr[len];
+                }
+            }
+            return max;
+        }
+    </script>
+</body>
+
+</html>
