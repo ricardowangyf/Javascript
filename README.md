@@ -956,3 +956,15 @@ Array.some()
 [代码](https://github.com/logicwang/JS/blob/main/js/221.html)
 [章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
 Array.indexOf()
+9. [示例](https://logicwang.github.io/Javascript/js/222.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/222.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.lastIndexOf()
+10. [示例](https://logicwang.github.io/Javascript/js/223.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/223.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.find()
+11. [示例](https://logicwang.github.io/Javascript/js/224.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/224.html)
+[章节](https://www.w3school.com.cn/js/js_array_iteration.asp) |
+Array.findIndex()
