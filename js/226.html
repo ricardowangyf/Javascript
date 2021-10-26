@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>显示所有变量类型的构造器</title>
+</head>
+
+<body>
+    <h2>JavaScript constructor 属性</h2>
+    <p>constructor 属性返回变量或对象的构造器函数。</p>
+    <p id="demo"></p>
+    <script>
+        document.getElementById("demo").innerHTML =
+            "john".constructor + "<br>" +
+            (3.14).constructor + "<br>" +
+            false.constructor + "<br>" +
+            [1, 2, 3, 4].constructor + "<br>" +
+            { name: 'john', age: 34 }.constructor + "<br>" +
+            new Date().constructor + "<br>" +
+            function () { }.constructor;
+    </script>
+</body>
+
+</html>
