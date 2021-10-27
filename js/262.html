@@ -5,21 +5,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>while 循环</title>
+    <title>打破并继续循环</title>
 </head>
 
 <body>
-    <h2>JavaScript while</h2>
+    <p>这个循环在 i=3 时跳过这一步：</p>
     <p id="demo"></p>
     <script>
         var text = "";
-        var i = 0;
-        while (i < 10) {
-            text += "<br>数字是 " + i;
-            i++;
+        var i;
+        for (i = 0; i < 10; i++) {
+            if (i === 3) { continue; }
+            text += "数字是 " + i + "<br>";
         }
         document.getElementById("demo").innerHTML = text;
     </script>
+
 </body>
 
 </html>
