@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>打破循环</title>
+</head>
+
+<body>
+    <p>带 break 的循环</p>
+
+    <p id="demo"></p>
+
+    <script>
+        var text = "";
+        var i;
+        for (i = 0; i < 10; i++) {
+            if (i === 3) { break; }
+            text += "数字是 " + i + "<br>";
+        }
+        document.getElementById("demo").innerHTML = text;
+    </script>
+</body>
+
+</html>
