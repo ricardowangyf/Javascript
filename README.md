@@ -987,3 +987,11 @@ Array.findIndex()
 [代码](https://github.com/logicwang/JS/blob/main/js/228.html)
 [章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
 使用 toString() 把数转换为字符串
+5. [示例](https://logicwang.github.io/Javascript/js/229.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/229.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+确认变量是否是数组
+6. [示例](https://logicwang.github.io/Javascript/js/230.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/230.html)
+[章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
+确认变量是否是日期
