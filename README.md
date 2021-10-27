@@ -1038,3 +1038,50 @@ false 的布尔值是 false
 [代码](https://github.com/logicwang/JS/blob/main/js/240.html)
 [章节](https://www.w3school.com.cn/js/js_booleans.asp) |
 NaN 的布尔值是 false
+
+#### 25.1 JavaScript    比较
+
+1. [示例](https://logicwang.github.io/Javascript/js/241.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/241.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x == 8) 的值
+2. [示例](https://logicwang.github.io/Javascript/js/242.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/242.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x == 5) 的值
+3. [示例](https://logicwang.github.io/Javascript/js/243.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/243.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x === 5) 的值
+4. [示例](https://logicwang.github.io/Javascript/js/244.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/244.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x === "5") 的值
+5. [示例](https://logicwang.github.io/Javascript/js/245.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/245.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x != 8) 的值
+6. [示例](https://logicwang.github.io/Javascript/js/246.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/246.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x !== 5) 的值
+7. [示例](https://logicwang.github.io/Javascript/js/247.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/247.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x !== "5") 的值
+8. [示例](https://logicwang.github.io/Javascript/js/248.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/248.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x > 8) 的值
+9. [示例](https://logicwang.github.io/Javascript/js/249.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/249.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x < 8) 的值
+10. [示例](https://logicwang.github.io/Javascript/js/250.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/250.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x >= 8) 的值
+11. [示例](https://logicwang.github.io/Javascript/js/251.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/251.html)
+[章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
+把 5 赋值给 x，然后显示 (x <= 8) 的值
