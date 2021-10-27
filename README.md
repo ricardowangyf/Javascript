@@ -1108,3 +1108,30 @@ else if 语句
 [代码](https://github.com/logicwang/JS/blob/main/js/256.html)
 [章节](https://www.w3school.com.cn/js/js_if_else.asp) |
 Switch 语句
+
+#### 27.1 JavaScript  循环
+
+1. [示例](https://logicwang.github.io/Javascript/js/257.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/257.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+for 循环
+2. [示例](https://logicwang.github.io/Javascript/js/258.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/258.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+遍历 HTML 标题
+3. [示例](https://logicwang.github.io/Javascript/js/259.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/259.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+while 循环
+4. [示例](https://logicwang.github.io/Javascript/js/260.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/260.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+do while 循环
+5. [示例](https://logicwang.github.io/Javascript/js/261.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/261.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+打破循环
+6. [示例](https://logicwang.github.io/Javascript/js/262.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/262.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+打破并继续循环
