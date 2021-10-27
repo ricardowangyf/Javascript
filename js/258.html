@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>遍历 HTML 标题</title>
+</head>
+
+<body>
+    <p>单击按钮从 1 到 6 循环，以生成 HTML 标题。</p>
+
+    <button onclick="myFunction()">试一试</button>
+
+    <div id="demo"></div>
+
+    <script>
+        function myFunction() {
+            var x = "", i;
+            for (i = 1; i <= 6; i++) {
+                x = x + "<h" + i + ">标题 " + i + "</h" + i + ">";
+            }
+            document.getElementById("demo").innerHTML = x;
+        }
+    </script>
+</body>
+
+</html>
