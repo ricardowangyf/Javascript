@@ -995,3 +995,46 @@ Array.findIndex()
 [代码](https://github.com/logicwang/JS/blob/main/js/230.html)
 [章节](https://www.w3school.com.cn/js/js_type_conversion.asp) |
 确认变量是否是日期
+
+#### 24.1 JavaScript    布尔
+
+1. [示例](https://logicwang.github.io/Javascript/js/231.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/231.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+显示 Boolean(10 > 9) 的值
+2. [示例](https://logicwang.github.io/Javascript/js/232.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/232.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+显示 10 > 9 的值
+3. [示例](https://logicwang.github.io/Javascript/js/233.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/233.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+拥有真正值的一切均为 true
+4. [示例](https://logicwang.github.io/Javascript/js/234.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/234.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+零的布尔值是 false
+5. [示例](https://logicwang.github.io/Javascript/js/235.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/235.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+减零（minus zero）的布尔值是 false
+6. [示例](https://logicwang.github.io/Javascript/js/236.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/236.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+空字符串的布尔值是 false
+7. [示例](https://logicwang.github.io/Javascript/js/237.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/237.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+undefined 的布尔值是 false
+8. [示例](https://logicwang.github.io/Javascript/js/238.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/238.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+null 的布尔值是 false
+9. [示例](https://logicwang.github.io/Javascript/js/239.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/239.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+false 的布尔值是 false
+10. [示例](https://logicwang.github.io/Javascript/js/240.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/240.html)
+[章节](https://www.w3school.com.cn/js/js_booleans.asp) |
+NaN 的布尔值是 false
