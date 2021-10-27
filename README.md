@@ -1085,3 +1085,26 @@ NaN 的布尔值是 false
 [代码](https://github.com/logicwang/JS/blob/main/js/251.html)
 [章节](https://www.w3school.com.cn/js/js_comparisons.asp) |
 把 5 赋值给 x，然后显示 (x <= 8) 的值
+
+#### 26.1 JavaScript   条件
+
+1. [示例](https://logicwang.github.io/Javascript/js/252.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/252.html)
+[章节](https://www.w3school.com.cn/js/js_if_else.asp) |
+if 语句
+2. [示例](https://logicwang.github.io/Javascript/js/253.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/253.html)
+[章节](https://www.w3school.com.cn/js/js_if_else.asp) |
+else 语句
+3. [示例](https://logicwang.github.io/Javascript/js/254.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/254.html)
+[章节](https://www.w3school.com.cn/js/js_if_else.asp) |
+else if 语句
+4. [示例](https://logicwang.github.io/Javascript/js/255.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/255.html)
+[章节](https://www.w3school.com.cn/js/js_if_else.asp) |
+随机链接
+5. [示例](https://logicwang.github.io/Javascript/js/256.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/256.html)
+[章节](https://www.w3school.com.cn/js/js_if_else.asp) |
+Switch 语句
