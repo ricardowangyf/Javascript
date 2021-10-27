@@ -1135,3 +1135,22 @@ do while 循环
 [代码](https://github.com/logicwang/JS/blob/main/js/262.html)
 [章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
 打破并继续循环
+7. [示例](https://logicwang.github.io/Javascript/js/263.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/263.html)
+[章节](https://www.w3school.com.cn/js/js_loop_for.asp) |
+使用 for...in 语句遍历对象中的元素
+
+#### 28.1 JavaScript  错误处理
+
+1. [示例](https://logicwang.github.io/Javascript/js/264.html)
+[代码](https://github.com/l ogicwang/JS/blob/main/js/264.html)
+[章节](https://www.w3school.com.cn/js/js_errors.asp) |
+try...catch 语句
+2. [示例](https://logicwang.github.io/Javascript/js/265.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/265.html)
+[章节](https://www.w3school.com.cn/js/js_errors.asp) |
+弹出提示框的 try...catch 语句
+3. [示例](https://logicwang.github.io/Javascript/js/266.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/266.html)
+[章节](https://www.w3school.com.cn/js/js_errors.asp) |
+onerror 事件
