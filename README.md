@@ -1227,3 +1227,34 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/282.html)
 [章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
 从对象中删除属性
+
+#### 32.1 JSON 对象
+
+1. [示例](https://logicwang.github.io/Javascript/js/283.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/283.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+使用 .property 访问属性
+2. [示例](https://logicwang.github.io/Javascript/js/284.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/284.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+使用 [property] 访问属性
+3. [示例](https://logicwang.github.io/Javascript/js/285.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/285.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+遍历属性
+4. [示例](https://logicwang.github.io/Javascript/js/286.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/286.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+遍历属性值
+5. [示例](https://logicwang.github.io/Javascript/js/287.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/287.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+访问嵌套的 JSON 对象
+6. [示例](https://logicwang.github.io/Javascript/js/288.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/288.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+使用点号表示法修改值
+7. [示例](https://logicwang.github.io/Javascript/js/289.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/289.html)
+[章节](https://www.w3school.com.cn/js/js_json_objects.asp) |
+删除对象属性
