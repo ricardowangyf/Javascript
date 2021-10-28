@@ -1204,3 +1204,26 @@ onerror 事件
 [代码](https://github.com/logicwang/JS/blob/main/js/277.html)
 [章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
 JavaScript 对象是易变的
+
+#### 31.1 JavaScript  对象属性
+
+1. [示例](https://logicwang.github.io/Javascript/js/278.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/278.html)
+[章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
+使用 .property 访问属性
+2. [示例](https://logicwang.github.io/Javascript/js/279.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/279.html)
+[章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
+使用 [property] 访问属性
+3. [示例](https://logicwang.github.io/Javascript/js/280.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/280.html)
+[章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
+使用 for in 访问属性
+4. [示例](https://logicwang.github.io/Javascript/js/281.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/281.html)
+[章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
+向已有对象添加新属性
+5. [示例](https://logicwang.github.io/Javascript/js/282.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/282.html)
+[章节](https://www.w3school.com.cn/js/js_object_properties.asp) |
+从对象中删除属性
