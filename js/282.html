@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>从对象中删除属性</title>
+</head>
+<body>
+    <h1>JavaScript 对象属性</h1>
+    <p>您可以删除对象属性。</p>
+    <p id="demo"></p>
+    <script>
+        var person = {
+            firstname: "Bill",
+            lastname: "Gates",
+            age: 62,
+            eyecolor: "blue"
+        };
+
+        delete person.age;
+        document.getElementById("demo").innerHTML =
+            person.firstname + " is " + person.age + " years old.";
+    </script>
+</body>
+</html>
