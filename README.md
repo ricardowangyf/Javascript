@@ -1250,3 +1250,9 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/295.html)
 [章节](https://www.w3school.com.cn/js/js_json_arrays.asp) |
 删除数组项目
+
+#### 34.1 JSON 数组
+1. [示例](https://logicwang.github.io/Javascript/js/296.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/296.html)
+[章节](https://www.w3school.com.cn/js/js_json_parse.asp) |
+使用 JSON 解析
