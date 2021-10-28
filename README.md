@@ -1154,3 +1154,14 @@ try...catch 语句
 [代码](https://github.com/logicwang/JS/blob/main/js/266.html)
 [章节](https://www.w3school.com.cn/js/js_errors.asp) |
 onerror 事件
+
+#### 29.1 JavaScript  正则表达式
+
+1. [示例](https://logicwang.github.io/Javascript/js/267.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/267.html)
+[章节](https://www.w3school.com.cn/js/js_regexp.asp) |
+在字符串中检索表达式
+2. [示例](https://logicwang.github.io/Javascript/js/268.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/268.html)
+[章节](https://www.w3school.com.cn/js/js_regexp.asp) |
+检索表达式然后替换它
