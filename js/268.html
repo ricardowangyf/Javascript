@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>检索表达式然后替换它</title>
+</head>
+
+<body>
+    <h1>JavaScript 正则表达式</h1>
+    <p>将“microsoft”替换为以下段落中的“W3School”：</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo">Please visit Microsoft and Microsoft!</p>
+    <script>
+        function myFunction() {
+            var str = document.getElementById("demo").innerHTML;
+            var txt = str.replace(/microsoft/i, "W3School");
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+
+</html>
