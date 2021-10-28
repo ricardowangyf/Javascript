@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建 JavaScript 对象（单行）</title>
+</head>
+
+<body>
+    <h1>JavaScript 对象创建</h1>
+    <p id="demo"></p>
+    <script>
+        // 创建对象：
+        var person = { firstName: "马特", lastName: "Gates", age: 2, eyeColor: "blue" };
+
+        // 显示对象中的数据：
+        document.getElementById("demo").innerHTML =
+            person.firstName + " 已经 " + person.age + " 岁了。";
+    </script>
+</body>
+
+</html>
