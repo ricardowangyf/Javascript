@@ -1165,3 +1165,42 @@ onerror 事件
 [代码](https://github.com/logicwang/JS/blob/main/js/268.html)
 [章节](https://www.w3school.com.cn/js/js_regexp.asp) |
 检索表达式然后替换它
+
+#### 30.1 JavaScript  对象
+
+1. [示例](https://logicwang.github.io/Javascript/js/269.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/269.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建 JavaScript 变量
+2. [示例](https://logicwang.github.io/Javascript/js/270.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/270.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建 JavaScript 对象
+3. [示例](https://logicwang.github.io/Javascript/js/271.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/271.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建 JavaScript 对象（单行）
+4. [示例](https://logicwang.github.io/Javascript/js/272.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/272.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建 JavaScript 对象（多行）
+5. [示例](https://logicwang.github.io/Javascript/js/273.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/273.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+使用 new 创建 JavaScript 对象
+6. [示例](https://logicwang.github.io/Javascript/js/274.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/274.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+使用构造器创建 JavaScript 对象
+7. [示例](https://logicwang.github.io/Javascript/js/275.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/275.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建内置的 JavaScript 对象
+8. [示例](https://logicwang.github.io/Javascript/js/276.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/276.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+创建 JavaScript 变量的最佳方式
+9. [示例](https://logicwang.github.io/Javascript/js/277.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/277.html)
+[章节](https://www.w3school.com.cn/js/js_object_definition.asp) |
+JavaScript 对象是易变的
