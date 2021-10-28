@@ -1,29 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>onerror 事件</title>
 </head>
+
 <body>
     <script>
-    onerror = handleErr;
-var txt = "";
-function handleErr(msg, url, l) {
-  txt = "此页面出错。\n\n";
-  txt += "错误：" + msg + "\n";
-  txt += "URL：" + url + "\n";
-  txt += "Line：" + l + "\n\n";
-  txt += "单击“确定”以继续。\n\n";
-  alert(txt);
-  return true;
-}
+        onerror = handleErr;
+        var txt = "";
+        function handleErr(msg, url, l) {
+            txt = "此页面出错。\n\n";
+            txt += "错误：" + msg + "\n";
+            txt += "URL：" + url + "\n";
+            txt += "Line：" + l + "\n\n";
+            txt += "单击“确定”以继续。\n\n";
+            alert(txt);
+            return true;
+        }
 
-function message() {
-   adddlert("欢迎访客！");
-}
-</script>
-<input type="button" value="查看消息" onclick="message()" />
+        function message() {
+            adddlert("欢迎访客！");
+        }
+    </script>
+    <input type="button" value="查看消息" onclick="message()" />
 </body>
+
 </html>
