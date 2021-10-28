@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建内置的 JavaScript 对象</title>
+</head>
+
+<body>
+    <h1>JavaScript 对象构造器</h1>
+    <p id="demo"></p>
+    <script>
+        var x1 = new Object(); // 新的 Object 对象
+        var x2 = new String(); // 新的 String 对象
+        var x3 = new Number(); // 新的 Number 对象
+        var x4 = new Boolean(); // 新的 Boolean 对象
+        var x5 = new Array(); // 新的 Array 对象
+        var x6 = new RegExp(); // 新的 RegExp 对象
+        var x7 = new Function(); // 新的 Function 对象
+        var x8 = new Date(); // 新的 Date 对象
+
+        // 显示所有对象的类型
+        document.getElementById("demo").innerHTML =
+            "x1: " + typeof x1 + "<br>" +
+            "x2: " + typeof x2 + "<br>" +
+            "x3: " + typeof x3 + "<br>" +
+            "x4: " + typeof x4 + "<br>" +
+            "x5: " + typeof x5 + "<br>" +
+            "x6: " + typeof x6 + "<br>" +
+            "x7: " + typeof x7 + "<br>" +
+            "x8: " + typeof x8 + "<br>";
+    </script>
+    <p>没有必要使用 String()、Number()、Boolean()、Array() 以及 RegExp()。</p>
+</body>
+
+</html>
