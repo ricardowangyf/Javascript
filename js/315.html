@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>简单的 JSONP 实例</title>
+</head>
+
+<body>
+    <h1>使用 script 标签请求 JSON</h1>
+
+    <p>PHP 文件所返回的函数调用处理的是 JSON 数据。</p>
+
+    <p id="demo"></p>
+
+    <script>
+        function myFunc(myObj) {
+            document.getElementById("demo").innerHTML = myObj.name;
+        }
+    </script>
+
+    <script src="/demo/demo_php_jsonp.php"></script>
+</body>
+
+</html>
