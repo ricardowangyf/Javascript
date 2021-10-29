@@ -1334,3 +1334,9 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/314.html)
 [章节](https://www.w3school.com.cn/js/js_json_html.asp) |
 生成基于 JSON 数据的 HTML 下拉列表
+
+#### 38.1 JSON JSONP
+1. [示例](https://logicwang.github.io/Javascript/js/315.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/315.html)
+[章节](https://www.w3school.com.cn/js/js_json_html.asp) |
+简单的 JSONP 实例
