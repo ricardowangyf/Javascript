@@ -1338,5 +1338,17 @@ JavaScript 对象是易变的
 #### 38.1 JSON JSONP
 1. [示例](https://logicwang.github.io/Javascript/js/315.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/315.html)
-[章节](https://www.w3school.com.cn/js/js_json_html.asp) |
+[章节](https://www.w3school.com.cn/js/js_json_jsonp.asp) |
 简单的 JSONP 实例
+2. [示例](https://logicwang.github.io/Javascript/js/316.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/316.html)
+[章节](https://www.w3school.com.cn/js/js_json_jsonp.asp) |
+创建动态脚本标签
+3. [示例](https://logicwang.github.io/Javascript/js/317.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/317.html)
+[章节](https://www.w3school.com.cn/js/js_json_jsonp.asp) |
+带动态结果的 JSONP 实例
+4. [示例](https://logicwang.github.io/Javascript/js/318.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/318.html)
+[章节](https://www.w3school.com.cn/js/js_json_jsonp.asp) |
+带回调函数的 JSONP 实例
