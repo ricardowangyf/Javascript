@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>对函数字符串化</title>
+</head>
+
+<body>
+    <h1>JSON.stringify 会删除对象中的任何函数</h1>
+    <p id="demo"></p>
+    <script>
+        var obj = { name: "bill", age: function () { return 2; }, city: "shanghai" };
+        var myJSON = JSON.stringify(obj);
+        document.getElementById("demo").innerHTML = myJSON;
+    </script>
+</body>
+
+</html>
