@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建动态脚本标签</title>
+</head>
+
+<body>
+    <h1>点击按钮</h1>
+    <p>将创建一个带有 src 属性的 script 标签并将其放在文档中。</p>
+    <p>PHP 文件以 JSON 对象作为参数返回对函数的调用。</p>
+    <button onclick="clickButton()">单击我！</button>
+    <p id="demo"></p>
+    <script>
+        function clickButton() {
+            var s = document.createElement("script");
+            s.src = "/demo/demo_php_jsonp.php";
+            document.body.appendChild(s);
+        }
+
+        function myFunc(myObj) {
+            document.getElementById("demo").innerHTML = myObj.name;
+        }
+    </script>
+
+</body>
+
+</html>
