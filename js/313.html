@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生成动态 HTML 表格</title>
+</head>
+
+<body>
+    <h2>做一个基于下拉列表值的表格。</h2>
+
+    <select id="myselect" onchange="change_myselect(this.value)">
+        <option value="">zhongguo</option>
+        <option value="customers">shanghai</option>
+        <option value="products">beijing</option>
+        <option value="suppliers">nanjing</option>
+    </select>
+
+    <p id="demo"></p>
+
+    <script>
+        function change_myselect(sel) {
+            var obj, dbParam, xmlhttp, myObj, x, txt = "";
+            obj = { table: sel, limit: 20 };
+            dbParam = JSON.stringify(obj);
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    myObj = JSON.parse(this.responseText);
+                    txt += "<table border='1'>"
+                    for (x in myObj) {
+                        txt += "<tr><td>" + myObj[x].name + "</td></tr>";
+                    }
+                    txt += "</table>"
+                    document.getElementById("demo").innerHTML = txt;
+                }
+            };
+            xmlhttp.open("POST", "json_demo_db_post.php", true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send("x=" + dbParam);
+        }
+    </script>
+
+</body>
+
+</html>
