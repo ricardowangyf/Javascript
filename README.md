@@ -1282,3 +1282,25 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/302.html)
 [章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
 使用 JSON 字符串化
+2. [示例](https://logicwang.github.io/Javascript/js/303.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/303.html)
+[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+对数组使用 JSON 字符串化
+3. [示例](https://logicwang.github.io/Javascript/js/304.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/304.html)
+[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+对日期字符串化
+4. [示例](https://logicwang.github.io/Javascript/js/305.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/305.html)
+[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+对函数字符串化
+5. [示例](https://logicwang.github.io/Javascript/js/306.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/306.html)
+[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+使用 toString() 方法对日期进行字符串化
+
+#### 36.1 JSON PHP
+1. [示例](https://logicwang.github.io/Javascript/js/307.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/307.html)
+[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+从 php 文件获取 JSON
