@@ -1320,3 +1320,17 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/311.html)
 [章节](https://www.w3school.com.cn/js/js_json_php.asp) |
 使用 POST 方法发送 JSON
+
+#### 37.1 JSON HTML
+1. [示例](https://logicwang.github.io/Javascript/js/312.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/312.html)
+[章节](https://www.w3school.com.cn/js/js_json_html.asp) |
+生成基于 JSON 数据的 HTML 表格
+2. [示例](https://logicwang.github.io/Javascript/js/313.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/313.html)
+[章节](https://www.w3school.com.cn/js/js_json_html.asp) |
+生成动态 HTML 表格
+3. [示例](https://logicwang.github.io/Javascript/js/314.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/314.html)
+[章节](https://www.w3school.com.cn/js/js_json_html.asp) |
+生成基于 JSON 数据的 HTML 下拉列表
