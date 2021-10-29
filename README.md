@@ -1302,5 +1302,21 @@ JavaScript 对象是易变的
 #### 36.1 JSON PHP
 1. [示例](https://logicwang.github.io/Javascript/js/307.html)
 [代码](https://github.com/logicwang/JS/blob/main/js/307.html)
-[章节](https://www.w3school.com.cn/js/js_json_stringify.asp) |
+[章节](https://www.w3school.com.cn/js/js_json_php.asp) |
 从 php 文件获取 JSON
+2. [示例](https://logicwang.github.io/Javascript/js/308.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/308.html)
+[章节](https://www.w3school.com.cn/js/js_json_php.asp) |
+从 php 文件获取 JSON 数组
+3. [示例](https://logicwang.github.io/Javascript/js/309.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/309.html)
+[章节](https://www.w3school.com.cn/js/js_json_php.asp) |
+从数据库获取 JSON
+4. [示例](https://logicwang.github.io/Javascript/js/310.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/310.html)
+[章节](https://www.w3school.com.cn/js/js_json_php.asp) |
+遍历来自数据库的结果
+5. [示例](https://logicwang.github.io/Javascript/js/311.html)
+[代码](https://github.com/logicwang/JS/blob/main/js/311.html)
+[章节](https://www.w3school.com.cn/js/js_json_php.asp) |
+使用 POST 方法发送 JSON
