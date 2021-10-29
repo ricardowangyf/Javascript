@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 JSON 字符串化</title>
+</head>
+
+<body>
+    <h1>从 JavaScript 对象创建 JSON 字符串</h1>
+    <p id="demo"></p>
+    <script>
+        var obj = { name: "Bill", age: 2, city: "shanghai" };
+        var myJSON = JSON.stringify(obj);
+        document.getElementById("demo").innerHTML = myJSON;
+    </script>
+</body>
+
+</html>
