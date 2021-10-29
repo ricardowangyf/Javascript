@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>对数组使用 JSON 字符串化</title>
+</head>
+
+<body>
+    <h1>用 JavaScript 数组创建 JSON 字符串</h1>
+    <p id="demo"></p>
+    <script>
+        var arr = ["Bill Gates","Steve Jobs", "Elon Musk"];
+        var myJSON = JSON.stringify(arr);
+        document.getElementById("demo").innerHTML = myJSON;
+    </script>
+</body>
+
+</html>
