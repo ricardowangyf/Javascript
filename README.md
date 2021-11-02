@@ -1366,3 +1366,7 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/Javascript/blob/main/js2/3.html)
 [章节](https://www.runoob.com/js/js-intro.html)  |
 改变 HTML 内容
+4.[示例](https://logicwang.github.io/Javascript/js2/4.html)
+[代码](https://github.com/logicwang/Javascript/blob/main/js2/4.html)
+[章节](https://www.runoob.com/js/js-intro.html)  |
+改变HTML图像
