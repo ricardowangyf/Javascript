@@ -1352,29 +1352,3 @@ JavaScript 对象是易变的
 [代码](https://github.com/logicwang/JS/blob/main/js/318.html)
 [章节](https://www.w3school.com.cn/js/js_json_jsonp.asp) |
 带回调函数的 JSONP 实例
-
-#### 1.2 JavaScript  简介
-1.[示例](https://logicwang.github.io/Javascript/js2/1.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/1.html)
-[章节](https://www.runoob.com/js/js-tutorial.html) | 
-写入HTML输出流
-2.[示例](https://logicwang.github.io/Javascript/js2/2.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/2.html)
-[章节](https://www.runoob.com/js/js-intro.html)  |
-对事件的反应
-3.[示例](https://logicwang.github.io/Javascript/js2/3.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/3.html)
-[章节](https://www.runoob.com/js/js-intro.html)  |
-改变 HTML 内容
-4.[示例](https://logicwang.github.io/Javascript/js2/4.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/4.html)
-[章节](https://www.runoob.com/js/js-intro.html)  |
-改变HTML图像
-5.[示例](https://logicwang.github.io/Javascript/js2/5.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/5.html)
-[章节](https://www.runoob.com/js/js-intro.html)  |
-改变HTML样式
-6.[示例](https://logicwang.github.io/Javascript/js2/6.html)
-[代码](https://github.com/logicwang/Javascript/blob/main/js2/6.html)
-[章节](https://www.runoob.com/js/js-intro.html)  |
-验证输入
