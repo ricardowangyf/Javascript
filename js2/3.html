@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变HTML内容</title>
+</head>
+
+<body>
+    <h1>我的第一段 JavaScript</h1>
+    <p id="demo">JavaScript 能改变 HTML 元素的内容。</p>
+    <script>
+        function myFunction() {
+            x = document.getElementById("demo");  //找到元素
+            x.innerHTML = "Hello JS!";  //改变内容
+        }
+    </script>
+    <button type="button" onclick="myFunction()">点击这里</button>
+</body>
+
+</html>
