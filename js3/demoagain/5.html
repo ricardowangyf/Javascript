@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p id="demo"></p>
+        <script>
+            document.getElementById("demo").innerHTML = 123e5;
+        </script>
+        <!-- js字面量 -->
+    </div>
+    <hr />
+    <div>
+        <p id="demoa"></p>
+        <script>
+            document.getElementById("demoa").innerHTML = 'John Doe';
+        </script>
+        <!-- js字符串 可以使用单引号或双引号 -->
+    </div>
+    <hr />
+    <div>
+        <p id="demob"></p>
+        <script>
+            document.getElementById("demob").innerHTML = 5 * 10;
+        </script>
+        <!-- 表达式字面量  -->
+    </div>
+    <hr />
+    <div>
+        <p id="democ"></p>
+        <script>
+            var length;
+            length = 6;
+            document.getElementById("democ").innerHTML = length;
+        </script>
+        <!-- 使用关键字var来定义变量， 使用等号来为变量赋值 -->
+    </div>
+    <hr />
+    <div>
+        <p id="demod"></p>
+        <script>
+            document.getElementById("demod").innerHTML = (5 + 6) * 10;
+        </script>
+        <!-- js使用 算术运算符 来计算值 -->
+    </div>
+    <hr />
+    <div>
+        <p id="demoe"></p>
+        <script>
+            var x, y, z;
+            x = 5
+            y = 6;
+            z = (x + y) * 10;
+            document.getElementById("demoe").innerHTML = z;
+        </script>
+        <!-- JS使用赋值运算符给变量赋值 -->
+    </div>
+</body>
+
+</html>
