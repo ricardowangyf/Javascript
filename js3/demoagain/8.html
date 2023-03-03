@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- JS变量 -->
+        <!-- 存储信息的容器 -->
+        <div>
+            <script>
+                var x = 5;
+                var y = 6;
+                var z = x + y;
+                document.write(x + "<br>");
+                document.write(y + "<br>");
+                document.write(z + "<br>");
+            </script>
+        </div>
+        <hr />
+
+        <div>
+            <script>
+                var pi = 3.14;
+                var name = "Bill Gates";
+                var answer = 'Yes I am!';
+                document.write(pi + "<br>");
+                document.write(name + "<br>");
+                document.write(answer + "<br>");
+            </script>
+        </div>
+        <hr />
+
+        <div>
+            <p>点击这里来创建变量，并显示结果。</p>
+            <button onclick="myFunction()">点击这里</button>
+            <p id="demo"></p>
+            <script>
+                function myFunction() {
+                    var carname = "Volvo";
+                    document.getElementById("demo").innerHTML = carname;
+                }
+            </script>
+        </div>
+
+        <hr />
+        <div>
+            <p>假设 y=5，计算 x=y+2，并显示结果。</p>
+            <button onclick="myFunaaaaction()">点击这里</button>
+            <p id="dadawemo"></p>
+            <script>
+                function myFunaaaaction() {
+                    var y = 5;
+                    var x = y + 2;
+                    var demoP = document.getElementById("dadawemo")
+                    demoP.innerHTML = "x=" + x;
+                }
+            </script>
+        </div>
+    </div>
+</body>
+
+</html>
