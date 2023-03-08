@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- 等于运算符  -->
+        <p>x=5, 返回 x==8 的比较值结果。</p>
+        <button onclick="myFunxction()">尝试一下</button>
+        <p id="demo"></p>
+        <script>
+            function myFunxction() {
+                var x = 5;
+                document.getElementById("demo").innerHTML = x == 8;
+            }
+        </script>
+        <!-- x==8-->
+        <p>x=5, 返回 x==5 的比较值结果。</p>
+        <button onclick="myFunction()">尝试一下</button>
+        <p id="demao"></p>
+        <script>
+            function myFunction() {
+                var x = 5;
+                document.getElementById("demao").innerHTML = x == 5;
+            }
+        </script>
+        <!-- x==8 -->
+    </div>
+    <hr />
+    <div>
+        <!-- 绝对等于（值和类型均相等）=== -->
+        <p>x=5, 返回 x==="5" 的比较值结果。</p>
+        <button onclick="myFunactiaon()">尝试一下</button>
+        <p id="demggao"></p>
+        <script>
+            function myFunactiaon() {
+                var x = 5;
+                document.getElementById("demggao").innerHTML = x === "5";
+            }
+        </script>
+        <!-- x==="5" -->
+        <p>x=5, 返回 x===5 的比较值结果。</p>
+        <button onclick="myFunction()">尝试一下</button>
+        <p id="deadfaefmo"></p>
+        <script>
+            function myFunction() {
+                var x = 5;
+                document.getElementById("deadfaefmo").innerHTML = x === 5;
+            }
+        </script>
+        <!-- x===5 -->
+    </div>
+    <hr />
+    <div>
+        <!-- != -->
+        <p>x=5, 返回 x!=8 的比较值结果。</p>
+        <button onclick="myFunawdawdction()">尝试一下</button>
+        <p id="demaeffeo"></p>
+        <script>
+            function myFunawdawdction() {
+                var x = 5;
+                document.getElementById("demaeffeo").innerHTML = x != 8;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <!-- !== -->
+        <!-- 不绝对等于（值和类型有一个不相等，或两个都不相等） -->
+        <p>x=5, 返回 x!=="5" 的比较值结果。</p>
+        <button onclick="myFunctiegergrgon()">尝试一下</button>
+        <p id="demoreqgheqrhqe"></p>
+        <script>
+            function myFunctiegergrgon() {
+                var x = 5;
+                document.getElementById("demoreqgheqrhqe").innerHTML = x !== "5";
+            }
+        </script>
+        <!-- 两个都不相等）	x!=="5" -->
+    </div>
+
+    <hr />
+    <div>
+        <!-- >= -->
+        <!-- 大于或等于 -->
+        <p>x=5, 返回 x&gt;=8 的比较值结果。</p>
+        <button onclick="myFuncyjyjyjtion()">尝试一下</button>
+        <p id="drhthtemo"></p>
+        <script>
+            function myFuncyjyjyjtion() {
+                var x = 5;
+                document.getElementById("drhthtemo").innerHTML = x >= 8;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <!-- <= -->
+        <!-- 小于或等于 -->
+        <p>x=5, 返回 x&lt;=8 的比较值结果。</p>
+        <button onclick="myFuncawdawdawdtion()">尝试一下</button>
+        <p id="deegrhhtmo"></p>
+        <script>
+            function myFuncawdawdawdtion() {
+                var x = 5;
+                document.getElementById("deegrhhtmo").innerHTML = x <= 8;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <!-- 如果变量 age 中的值小于 18，则向变量 voteable 赋值 "年龄太小"，否则赋值 "年龄已达到" -->
+        <p>点击按钮检测年龄。</p>
+        年龄:<input id="age" value="18" />
+        <p>是否达到投票年龄?</p>
+        <button onclick="myFunctawdawdawdion()">点击按钮</button>
+        <p id="drhrthrthemo"></p>
+        <script>
+            function myFunctawdawdawdion() {
+                var age, voteable;
+                age = document.getElementById("age").value;
+                voteable = (age < 18) ? "年龄太小" : "年龄已达到";
+                document.getElementById("drhrthrthemo").innerHTML = voteable;
+            }
+        </script>
+    </div>
+</body>
+
+</html>
