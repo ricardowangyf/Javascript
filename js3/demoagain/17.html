@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <script>
+            cars = ["BMW", "Volvo", "Saab", "Ford"];
+            for (var i = 0; i < cars.length; i++) {
+                document.write(cars[i] + "<br>");
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p>点击按钮循环代码5次。</p>
+        <button onclick="myFurhwhthction()">点击这里</button>
+        <p id="demoa"></p>
+        <script>
+            function myFurhwhthction() {
+                var x = "";
+                for (var i = 0; i < 5; i++) {
+                    x = x + "该数字为 " + i + "<br>";
+                }
+                document.getElementById("demoa").innerHTML = x;
+            }
+        </script>
+        <!-- For 循环 -->
+    </div>
+    <hr />
+    <div>
+        <p>点击下面的按钮，循环遍历对象 "person" 的属性。</p>
+        <button onclick="myFunctiawdawdaon()">点击这里</button>
+        <p id="derg3egrmo"></p>
+        <script>
+            function myFunctiawdawdaon() {
+                var x;
+                var txt = "";
+                var person = { fname: "Bill", lname: "Gates", age: 56 };
+                for (x in person) {
+                    txt = txt + person[x];
+                }
+                document.getElementById("derg3egrmo").innerHTML = txt;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <script>
+            cars = ["BMW", "Volvo", "Saab", "Ford"];
+            for (var i = 0, l = cars.length; i < l; i++) {
+                document.write(cars[i] + "<br>");
+            }
+        </script>
+    </div>
+    <hr />
+    <script>
+        cars = ["qgrBMW", "bgrg", "nynyut", "ewgweFord"];
+        var i = 2, len = cars.length;
+        for (; i < len; i++) {
+            document.write(cars[i] + "<br>");
+        }
+    </script>
+</body>
+
+</html>
