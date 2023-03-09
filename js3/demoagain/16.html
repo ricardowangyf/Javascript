@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- 显示今天的星期名称 -->
+        <p>点击下面的按钮来显示今天是周几：</p>
+        <button onclick="myFunction()">点击这里</button>
+        <p id="demo"></p>
+        <script>
+            function myFunction() {
+                var x;
+                var d = new Date().getDay();
+                switch (d) {
+                    case 0: x = "今天是星期日";
+                        break;
+                    case 1: x = "今天是星期一";
+                        break;
+                    case 2: x = "今天是星期二";
+                        break;
+                    case 3: x = "今天是星期三";
+                        break;
+                    case 4: x = "今天是星期四";
+                        break;
+                    case 5: x = "今天是星期五";
+                        break;
+                    case 6: x = "今天是星期六";
+                        break;
+                }
+                document.getElementById("demo").innerHTML = x;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p>点击下面的按钮，会显示出基于今日日期的消息：</p>
+        <button onclick="myFunctaaaaion()">点击这里</button>
+        <p id="demoregqegr"></p>
+        <script>
+            function myFunctaaaaion() {
+                var x;
+                var d = new Date().getDay();
+                switch (d) {
+                    case 6: x = "今天是星期六";
+                        break;
+                    case 0: x = "今天是星期日";
+                        break;
+                    default:
+                        x = "期待周末";
+                }
+                document.getElementById("demoregqegr").innerHTML = x;
+            }
+        </script>
+        <!-- default 关键词 -->
+    </div>
+    <hr />
+    <div>
+        <h2>JS switch</h2>
+        <p id="demo112"></p>
+        <script>
+            var text;
+            switch (new Date().getDay()) {
+                default:
+                    text = "期待周末";
+                    break;
+                case 6:
+                    text = "今天是周六";
+                    break;
+                case 0:
+                    text = "今天是周日";
+            }
+            document.getElementById("demo112").innerHTML = text;
+        </script>
+        <!-- default不必是 switch 代码块中最后一个 cas -->
+    </div>
+    <hr />
+    <div>
+        <h2>JavaScript switch</h2>
+        <p id="degheqthqthemo"></p>
+        <script>
+            var x = "0";
+
+            switch (x) {
+                case 0:
+                    text = "Off";
+                    break;
+                case 1:
+                    text = "On";
+                    break;
+                default:
+                    text = "未找到值";
+            }
+            document.getElementById("degheqthqthemo").innerHTML = text;
+        </script>
+    </div>
+</body>
+
+</html>
