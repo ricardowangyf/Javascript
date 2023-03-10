@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p>替换 "microsoft" 为 "W3cSchool" :</p>
+        <button onclick="me()">点我</button>
+        <p id="Madicrosoft">请访问 Microsoft!</p>
+        <script>
+            function me() {
+                var str = document.getElementById("Microsoft").innerHTML;
+                var txt = str.replace(/microsoft/i, "W3cSchool");
+                document.getElementById("Madicrosoft").innerHTML = txt;
+            }
+        </script>
+        <!-- replace() 方法使用正则表达式 -->
+    </div>
+    <hr />
+    <div>
+        <p>替换 "Microsoft" 为 "W3cSchool" :</p>
+        <button onclick="replace()">点我</button>
+        <p id="repadlace">请访问 Microsoft!</p>
+        <script>
+            function replace() {
+                var str = document.getElementById("replace").innerHTML;
+                var txt = str.replace("Microsoft", "W3cSchool");
+                document.getElementById("repadlace").innerHTML = txt;
+            }
+        </script>
+        <!-- replace() 方法使用字符串 -->
+    </div>
+    <hr />
+    <div>
+        <script>
+            var patt1 = new RegExp("e");
+            document.write(patt1.test("The best things in life are free"));
+        </script>
+        <!-- 使用 test() -->
+    </div>
+    <hr />
+    <div>
+        <script>
+            var patt1 = new RegExp("e");
+            document.write(patt1.exec("The best things in life are free"));
+        </script>
+        <!-- 使用 exec() -->
+    </div>
+</body>
+
+</html>
