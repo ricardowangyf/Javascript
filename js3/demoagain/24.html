@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p>x=5, 返回 x==="5" 的比较值结果。</p>
+        <button onclick="myFunction()">尝试一下</button>
+        <p id="demo"></p>
+        <script>
+            function myFunction() {
+                var x = 5;
+                document.getElementById("demo").innerHTML = x === "5";
+            }
+        </script>
+        <!-- ===	绝对等于（值和类型均相等） -->
+    </div>
+    <hr />
+    <div>
+        <p>x=5, 返回 x==8 的比较值结果。</p>
+        <button onclick="a()">尝试一下</button>
+        <p id="aw"></p>
+        <script>
+            function a() {
+                var x = 5;
+                document.getElementById("aw").innerHTML = x == 8;
+            }
+        </script>
+        <!-- ==等于 -->
+    </div>
+</body>
+
+</html>
