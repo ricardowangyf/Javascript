@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p>点击下面的按钮，只要 i 小于 5 就一直循环代码块。</p>
+        <button onclick="whilie()">点击这里</button>
+        <p id="one"></p>
+        <script>
+            function whilie() {
+                var x = "", i = 0;
+                while (i < 5) {
+                    x = x + "该数字为 " + i + "<br>";
+                    i++;
+                }
+                document.getElementById("one").innerHTML = x;
+            }
+        </script>
+    </div>  
+    <hr />
+    <div>
+        <p>点击下面的按钮，只要 i 小于 5 就一直循环代码块。</p>
+        <button onclick="dowhile()">点击这里</button>
+        <p id="two"></p>
+        <script>
+            function dowhile() {
+                var x = "", i = 0;
+                do {
+                    x = x + "该数字为 " + i + "<br>";
+                    i++;
+                }
+                while (i < 5)
+                document.getElementById("two").innerHTML = x;
+            }
+        </script>
+    </div>
+</body>
+
+</html>
