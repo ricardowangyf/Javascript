@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <script>
+            var x = 5;
+            var y = 6;
+            var z = x + y;
+            document.write(x + "<br>");
+            document.write(y + "<br>");
+            document.write(z + "<br>");
+        </script>
+    </div>
+    <hr />
+    <div>
+        <script>
+            var pi = 3.14;
+            var name = "Bill Gates";
+            var answer = 'Yes I am!';
+            document.write(pi + "<br>");
+            document.write(name + "<br>");
+            document.write(answer + "<br>");
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p>点击这里来创建变量，并显示结果。</p>
+        <button onclick="myFunction()">点击这里</button>
+        <p id="a"></p>
+        <script>
+            function myFunction() {
+                var carname = "Volvo";
+                document.getElementById("a").innerHTML = carname;
+            }
+        </script>
+    </div>
+</body>
+
+</html>
