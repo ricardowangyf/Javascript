@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- == -->
+    <div>
+        <p>x=5, 返回 x==8 的比较值结果。</p>
+        <button onclick="myFunction()">尝试一下</button>
+        <p id="demo"></p>
+        <script>
+            function myFunction() {
+                var x = 5;
+                document.getElementById("demo").innerHTML = x == 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x==="5" 的比较值结果。</p>
+        <button onclick="three()">尝试一下</button>
+        <p id="three"></p>
+        <script>
+            function three() {
+                var x = 5;
+                document.getElementById("three").innerHTML = x === "5";
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x!=8 的比较值结果。</p>
+        <button onclick="not()">尝试一下</button>
+        <p id="not"></p>
+        <script>
+            function not() {
+                var x = 5;
+                document.getElementById("not").innerHTML = x != 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x!=="5" 的比较值结果。</p>
+        <button onclick="yes()">尝试一下</button>
+        <p id="yes"></p>
+        <script>
+            function yes() {
+                var x = 5;
+                document.getElementById("yes").innerHTML = x !== "5";
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x&gt;8 的比较值结果。</p>
+        <button onclick="dayu()">尝试一下</button>
+        <p id="dayu"></p>
+        <script>
+            function dayu() {
+                var x = 5;
+                document.getElementById("dayu").innerHTML = x > 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x&lt;8 的比较值结果。</p>
+        <button onclick="xiaoyu()">尝试一下</button>
+        <p id="xiaoyu"></p>
+        <script>
+            function myFunction() {
+                var x = 5;
+                document.getElementById("xiaoyu").innerHTML = x < 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x&gt;=8 的比较值结果。</p>
+        <button onclick="dayudengyu()">尝试一下</button>
+        <p id="dayudengyu"></p>
+        <script>
+            function dayudengyu() {
+                var x = 5;
+                document.getElementById("dayudengyu").innerHTML = x >= 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>x=5, 返回 x&lt;=8 的比较值结果。</p>
+        <button onclick="xiaoyudengyu()">尝试一下</button>
+        <p id="xiaoyudengyu"></p>
+        <script>
+            function xiaoyudengyu() {
+                var x = 5;
+                document.getElementById("xiaoyudengyu").innerHTML = x <= 8;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>点击按钮检测年龄。</p>
+        年龄:<input id="age" value="18" />
+        <p>是否达到投票年龄?</p>
+        <button onclick="note()">点击按钮</button>
+        <p id="demo"></p>
+        <script>
+            function note() {
+                var age, voteable;
+                age = document.getElementById("age").value;
+                voteable = (age < 18) ? "年龄太小" : "年龄已达到";
+                document.getElementById("demo").innerHTML = voteable;
+            }
+        </script>
+    </div>
+</body>
+
+</html>
