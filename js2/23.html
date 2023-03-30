@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p>点击按钮，测试带有 break 语句的循环。</p>
+        <button onclick="dasw()">点击这里</button>
+        <p id="dasw"></p>
+        <script>
+            function dasw() {
+                var x = "", i = 0;
+                for (i = 0; i < 10; i++) {
+                    if (i == 3) {
+                        break;
+                    }
+                    x = x + "该数字为 " + i + "<br>";
+                }
+                document.getElementById("dasw").innerHTML = x;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <p>点击下面的按钮来执行循环，该循环会跳过 i=3 的步进。</p>
+        <button onclick="qqq()">点击这里</button>
+        <p id="qqq"></p>
+        <script>
+            function qqq() {
+                var x = "", i = 0;
+                for (i = 0; i < 10; i++) {
+                    if (i == 3) {
+                        continue;
+                    }
+                    x = x + "该数字为 " + i + "<br>";
+                }
+                document.getElementById("qqq").innerHTML = x;
+            }
+        </script>
+    </div>
+</body>
+
+</html>
