@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p> typeof 操作符返回变量、对象、函数、表达式的类型。</p>
+        <p id="demo"></p>
+        <script>
+            document.getElementById("demo").innerHTML =
+                typeof "john" + "<br>" +
+                typeof 3.14 + "<br>" +
+                typeof NaN + "<br>" +
+                typeof false + "<br>" +
+                typeof [1, 2, 3, 4] + "<br>" +
+                typeof { name: 'john', age: 34 } + "<br>" +
+                typeof new Date() + "<br>" +
+                typeof function () { } + "<br>" +
+                typeof myCar + "<br>" +
+                typeof null;
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p> constructor 属性返回变量或对象的构造函数。</p>
+        <p id="demao"></p>
+        <script>
+            document.getElementById("demao").innerHTML =
+                "john".constructor + "<br>" +
+                (3.14).constructor + "<br>" +
+                false.constructor + "<br>" +
+                [1, 2, 3, 4].constructor + "<br>" +
+                { name: 'john', age: 34 }.constructor + "<br>" +
+                new Date().constructor + "<br>" +
+                function () { }.constructor;
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p> String() 方法可以将数字转换为字符串。</p>
+        <p id="demo"></p>
+        <script>
+            var x = 123;
+            document.getElementById("demo").innerHTML =
+                String(x) + "<br>" +
+                String(123) + "<br>" +
+                String(100 + 23);
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p> typeof 操作符返回变量或表达式的类型。</p>
+        <button onclick="myFuncation()">点我</button>
+        <p id="demaaao"></p>
+        <script>
+            function myFuncation() {
+                var y = "John";
+                var x = + y;
+                document.getElementById("demaaao").innerHTML =
+                    typeof x + "<br>" + x;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

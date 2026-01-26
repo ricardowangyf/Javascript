@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>带动态结果的 JSONP 实例</title>
+</head>
+
+<body>
+    <h1>点击按钮</h1>
+    <p>将创建一个带有 src 属性的 script 标签并将其放在文档中。</p>
+    <p>PHP 文件以 JSON 对象作为参数返回对函数的调用。</p>
+    <button onclick="clickButton()">单击我！</button>
+    <p id="demo"></p>
+    <p>请尝试将 table 属性从“customers”更改为“products”。</p>
+    <script>
+        function clickButton() {
+            var obj, s
+            obj = { table: "customers", limit: 10 };
+            s = document.createElement("script");
+            s.src = "/demo/demo_php_jsonp_db.php?x=" + JSON.stringify(obj);
+            document.body.appendChild(s);
+        }
+
+        function myFunc(myObj) {
+            var x, txt = " ";
+            for (x in myObj) {
+                txt += Obj[x].name + "<br>";
+            }
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+
+</html>

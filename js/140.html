@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全局方法 Number() 甚至可以将日期转换为数字</title>
+</head>
+
+<body>
+
+    <h1>JavaScript 全局方法</h1>
+    <p>Number() 方法可以把日期转换为数字：</p>
+    <p id="demo"></p>
+    <script>
+        var x = new Date("2017-09-30");
+        document.getElementById("demo").innerHTML = Number(x);
+    </script>
+</body>
+
+</html>

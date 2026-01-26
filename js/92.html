@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>调用函数的onclick事件</title>
+</head>
+
+<body>
+    <h1>JavaScript 事件</h1>
+    <p>点击按钮来显示日期。</p>
+    <button onclick="displayDate()">时间是？</button>
+    <script>
+        function displayDate(){
+            document.getElementById("demo").innerHTML = Date();
+        }
+    </script>
+    <p id="demo"></p>
+</body>
+
+</html>

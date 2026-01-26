@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>按随机顺序排序数组中的数字</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组排序</h1>
+
+    <p>请反复点击按钮，对数组进行随机排序。</p>
+
+    <button onclick="myFunction()">试一试</button>
+
+    <p id="demo"></p>
+    <script>
+        var points = [40, 100, 1, 5, 25, 10];
+        document.getElementById("demo").innerHTML = points;
+
+        function myFunction() {
+            points.sort(function (a, b) { return 0.5 - Math.random() });
+            document.getElementById("demo").innerHTML = points;
+        }
+    </script>
+</body>
+
+</html>

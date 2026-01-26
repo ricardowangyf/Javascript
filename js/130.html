@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>toString() 方法能够以十六进制、八进制或二进制输出数</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>toString() 方法以基数 2 到 36 输出字符串：</p>
+    <p id="demo"></p>
+    <script>
+        var myNumber = 32;
+        document.getElementById("demo").innerHTML = "32=" + "<br>" +
+            "Decimal" + myNumber.toString(10) + "<br>" +
+            " Hexadecimal " + myNumber.toString(16) + "<br>" +
+            " Octal " + myNumber.toString(8) + "<br>" +
+            " Binary " + myNumber.toString(2);
+    </script>
+</body>
+
+</html>

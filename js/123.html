@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在数学运算中使用 NaN 会始终返回 NaN</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>假如您在数学运算中使用了 NaN，则结果也将是 NaN：</p>
+    <p id="demo"></p>
+    <script>
+        var x = NaN;
+        var y = 5;
+        document.getElementById("demo").innerHTML = x + y;
+    </script>
+</body>
+
+</html>

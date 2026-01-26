@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p> typeof 操作符返回变量、对象、函数、表达式的类型。</p>
+        <p id="demo"></p>
+        <script>
+            document.getElementById("demo").innerHTML =
+                typeof "john" + "<br>" +
+                typeof 3.14 + "<br>" +
+                typeof NaN + "<br>" +
+                typeof false + "<br>" +
+                typeof [1, 2, 3, 4] + "<br>" +
+                typeof { name: 'john', age: 34 } + "<br>" +
+                typeof new Date() + "<br>" +
+                typeof function () { } + "<br>" +
+                typeof myCar + "<br>" +
+                typeof null;
+        </script>
+        <!-- typeof 操作符 -->
+    </div>
+    <hr />
+    <div>
+        <p> constructor 属性返回变量或对象的构造函数。</p>
+        <p id="demgggggo"></p>
+        <script>
+            document.getElementById("demgggggo").innerHTML =
+                "john".constructor + "<br>" +
+                (3.14).constructor + "<br>" +
+                false.constructor + "<br>" +
+                [1, 2, 3, 4].constructor + "<br>" +
+                { name: 'john', age: 34 }.constructor + "<br>" +
+                new Date().constructor + "<br>" +
+                function () { }.constructor;
+        </script>
+        <!-- constructor 属性 -->
+    </div>
+    <hr />
+    <div>
+        <p> String() 方法可以将数字转换为字符串。</p>
+        <p id="demohtrhwh"></p>
+        <script>
+            var x = 123;
+            document.getElementById("demohtrhwh").innerHTML =
+                String(x) + "<br>" +
+                String(123) + "<br>" +
+                String(100 + 23);
+        </script>
+        <!-- Number 方法 toString()  -->
+    </div>
+    <hr />
+    <div>
+        <p> typeof 操作符返回变量或表达式的类型。</p>
+        <button onclick="myFuadasdasdanction()">点我</button>
+        <p id="demregaqhetho"></p>
+        <script>
+            function myFuadasdasdanction() {
+                var y = "John";
+                var x = + y;
+                document.getElementById("demregaqhetho").innerHTML =
+                    typeof x + "<br>" + x;
+            }
+        </script>
+        <!-- 一元运算符 + -->
+        <p> typeof 操作符返回变量或表达式的类型。</p>
+<button onclick="asdasdasd()">点我</button>
+<p id="demawdawdawdo"></p>
+<script>
+function asdasdasd() {
+    var y = "5";
+    var x = + y;
+    document.getElementById("demawdawdawdo").innerHTML =
+		typeof y + "<br>" + typeof x;
+}
+</script>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>把字符串转换为小写 - toLowerCase()</title>
+</head>
+
+<body>
+    <h1>JavaScript 字符串方法</h1>
+    <p>把字符串转换为小写：</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo">Sb</p>
+    <script>
+        function myFunction() {
+            var text = document.getElementById("demo").innerHTML;
+            document.getElementById("demo").innerHTML = text.toLowerCase();
+        }
+    </script>
+</body>
+
+</html>

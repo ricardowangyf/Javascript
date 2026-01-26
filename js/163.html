@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>把摄氏度转换为华氏度</title>
+</head>
+
+<body>
+    <h2>JavaScript 摄氏度转华氏度</h2>
+    <p>在下面的输入字段之一中插入一个数字：</p>
+    <p><input id="c" onkeyup="convert('C')"> 摄氏度</p>
+    <p><input id="f" onkeyup="convert('F')"> 华氏度</p>
+    <p>请注意，使用了 <b>Math.round()</b> 方法，因此结果将作为整数返回。</p>
+    <script>
+        function convert(degree) {
+            var x;
+            if (degree == "C") {
+                x = document.getElementById("c").value * 9 / 5 + 32;
+                document.getElementById("f").value = Math.round(x);
+            } else {
+                x = (document.getElementById("f").value - 32) * 5 / 9;
+                document.getElementById("c").value = Math.round(x);
+            }
+        }
+    </script>
+</body>
+
+</html>

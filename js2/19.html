@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var x = Boolean(10 > 5);
+        var z = new Boolean(true); // z的值为对象Boolean(true)
+        var y = Boolean(0); //转换为一个布尔值。如果参数为空，返回false，否则根据参数的真假值返回true或false
+
+
+        var str = z.toString(); // Boolean对象转换为一个字符串。如果Boolean值为true，返回字符串"true"，否则返回字符串"false"
+        var val = z.valueOf(); // 返回Boolean对象的原始布尔值，即true或false
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>遍历属性值</title>
+</head>
+
+<body>
+    <h1>JSON 对象</h1>
+    <p>使用括号表示法访问属性值。</p>
+    <p id="demo"></p>
+    <script>
+        var myObj, x;
+        myObj = { "name": "Bill Gates", "age": 62, "car": null };
+        for (x in myObj) {
+            document.getElementById("demo").innerHTML += myObj[x] + "<br>";
+        }
+    </script>
+</body>
+
+</html>

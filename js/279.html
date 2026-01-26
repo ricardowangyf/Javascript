@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 [property] 访问属性</title>
+</head>
+
+<body>
+    <h1>JavaScript 对象属性</h1>
+    <p>访问对象属性有两种不同的方法：</p>
+    <p>您可以使用 .property 或 ["property"]。</p>
+    <p id="demo"></p>
+    <script>
+        var person = {
+            firstname: "Bill",
+            lastname: "Gates",
+            age: 62,
+            eyecolor: "blue"
+        };
+
+        document.getElementById("demo").innerHTML = person["firstname"] + " is " + person["age"] + " years old.";
+    </script>
+</body>
+
+</html>

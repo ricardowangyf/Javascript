@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>访问嵌套的 JSON 对象</title>
+</head>
+
+<body>
+    <h1>JSON 对象</h1>
+    <p>如何访问嵌套的 JSON 对象。</p>
+    <p id="demo"></p>
+    <script>
+        var myObj = {
+            "name": "Bill Gates",
+            "age": 62,
+            "cars": {
+                "car1": "Porsche",
+                "car2": "BMW",
+                "car3": "Volvo"
+            }
+        }
+        document.getElementById("demo").innerHTML += myObj.cars.car2 + "<br>";
+        //or:
+        document.getElementById("demo").innerHTML += myObj.cars["car2"];
+    </script>
+
+</body>
+
+</html>

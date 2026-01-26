@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>对数组使用 JSON 解析</title>
+</head>
+
+<body>
+    <h1>数组内容</h1>
+    <p>以 JSON 数组写的内容会被转换为 JavaScript 数组。</p>
+    <p id="demo"></p>
+    <script>
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                var myArr = JSON.parse(this.responseText);
+                document.getElementById("demo").innerHTML = myArr[0];
+            }
+        };
+        xmlhttp.open("GET", "/demo/json_demo_array.txt", true);
+        xmlhttp.send();
+    </script>
+    <p>查看 <a href="https://www.w3school.com.cn/example/json/json_demo_array.txt" target="_blank">json_demo_array.txt</a>
+    </p>
+</body>
+
+</html>

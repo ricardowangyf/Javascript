@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array.forEach()</title>
+</head>
+
+<body>
+    <h1>JavaScript Array.forEach()</h1>
+    <p>为每个元素调用一次函数。</p>
+    <p id="demo"></p>
+    <script>
+        var txt = "";
+        var numbers = [45, 4, 9, 16, 25];
+        numbers.forEach(myFunction);
+        document.getElementById("demo").innerHTML = txt;
+
+        function myFunction(value, index, array) {
+            txt = txt + value + "<br>";
+        }
+    </script>
+</body>
+
+</html>

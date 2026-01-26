@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>确认变量是否是日期</title>
+</head>
+
+<body>
+    <h1>JavaScript Date 对象</h1>
+    <p>这个“自制的” isDate() 函数在日期上使用时返回 true：</p>
+    <p id="demo"></p>
+    <script>
+        var myDate = new Date();
+        document.getElementById("demo").innerHTML = isDate(myDate);
+
+        function isDate(myDate) {
+            return myDate.constructor.toString().indexOf("Date") > -1;
+        }
+    </script>
+</body>
+
+</html>

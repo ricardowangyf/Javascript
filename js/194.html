@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>连接三个数组 - concat()</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组方法</h1>
+    <h2>concat()</h2>
+    <p>concat() 方法用于合并（连接）数组：</p>
+    <p id="demo"></p>
+    <script>
+        var arr1 = ["E", "A", "Q", "R"];
+        var arr2 = ["U", "I", "L", "O"];
+        var arr3 = ["Z", "D", "N", "M"];
+        var myChildren = arr1.concat(arr2, arr3);
+        document.getElementById("demo").innerHTML = myChildren;
+    </script>
+</body>
+
+</html>

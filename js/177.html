@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 getDay() 以及一个数组以名称显示星期名</title>
+</head>
+
+<body>
+    <h2>JavaScript getDay()</h2>
+    <p>getDay() 方法将周名作为数字返回：</p>
+    <p>您可以使用数组来显示星期的名称：</p>
+    <p id="demo"></p>
+    <script>
+        var d = new Date();
+        var days =
+            ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+        document.getElementById("demo").innerHTML = days[d.getDay()];
+    </script>
+</body>
+
+</html>

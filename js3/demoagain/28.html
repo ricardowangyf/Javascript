@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <script>
+            var patt1 = new RegExp("e");
+            document.write(patt1.test("The best things in life are free"));
+        </script>
+    </div>
+    <hr />
+    <div>
+        <script>
+            var patt1 = new RegExp("e");
+            document.write(patt1.exec("The best things in life are free"));
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p>搜索字符串 "w3cSchool", 并显示匹配的起始位置：</p>
+        <button onclick="myFunction()">点我</button>
+        <p id="demo"></p>
+        <script>
+            function myFunction() {
+                var str = "Visit W3cSchool!";
+                var n = str.search(/w3cSchool/i);
+                document.getElementById("demo").innerHTML = n;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

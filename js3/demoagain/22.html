@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <h1>我的第一个 Web 页面</h1>
+        <p>
+            浏览器中(Chrome, IE, Firefox) 使用 F12 来启用调试模式， 在调试窗口中点击 "Console" 菜单。
+        </p>
+        <script>
+            a = 5;
+            b = 6;
+            c = a + b;
+            console.log(c);
+            alert(c)
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p id="demoa"></p>
+        <p>开启调试工具，在代码执行到第三行前会停止执行。</p>
+        <script>
+            var x = 15 * 5;
+            debugger;
+            document.getElementById("demoa").innerHTML = x;
+        </script>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <p>如果时间早于 20:00，会获得问候 "Good day"。</p>
+        <button onclick="awdadw()">点击这里</button>
+        <p id="awdadw"></p>
+        <script>
+            function awdadw() {
+                var x = "";
+                var time = new Date().getHours();
+                if (time < 20) {
+                    x = "Good day";
+                }
+                document.getElementById("awdadw").innerHTML = x;
+            }
+        </script>
+    </div>
+    <hr>
+    <div>
+        <script type="text/javascript">
+            var d = new Date();
+            var time = d.getHours();
+            if (time < 10) {
+                document.write("<b>早上好</b>");
+            }
+            else if (time >= 10 && time < 20) {
+                document.write("<b>今天好</b>");
+            }
+            else {
+                document.write("<b>Hello World!</b>");
+            }
+        </script>
+        <p>
+            这个例子演示了 if..else if...else 语句。
+        </p>
+    </div>
+</body>
+
+</html>

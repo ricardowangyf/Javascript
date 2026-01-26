@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>对字符串执行的算术将导致 NaN</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>数字除以非数字字符串会成为 NaN (Not a Number)：</p>
+    <p id="demo"></p>
+    <script>
+        document.getElementById("demo").innerHTML = 100 / "Apple";
+    </script>
+</body>
+
+</html>

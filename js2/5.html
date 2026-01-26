@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- while 循环 -->
+        <p>点击下面的按钮，只要 i 小于 5 就一直循环代码块。</p>
+        <button onclick="awdqwq()">点击这里</button>
+        <p id="qwe"></p>
+        <script>
+            function awdqwq() {
+                var x = "", i = 0;
+                while (i < 5) {
+                    x = x + "该数字为 " + i + "<br>";
+                    i++;
+                }
+                document.getElementById("qwe").innerHTML = x;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <script>
+            cars = ["BMW", "Volvo", "Saab", "Ford"];
+            var i = 0;
+            while (cars[i]) {
+                document.write(cars[i] + "<br>");
+                i++;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <script>
+            cars = ["BMW", "Volvo", "Saab", "Ford"];
+            var i = 0;
+            for (; cars[i];) {
+                document.write(cars[i] + "<br>");
+                i++;
+            }
+        </script>
+        <script>
+            cars = ["BMW", "Volvo", "Saab", "Ford"];
+            var i = 0;
+            while (cars[i]) {
+                document.write(cars[i] + "<br>");
+                i++;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

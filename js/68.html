@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>声明（创建）字符串</title>
+</head>
+
+<body>
+    <h2>JavaScript 字符串</h2>
+
+    <p>您可以在字符串内使用引号，只要这些引号与包围字符串的引号不匹配：</p>
+
+    <p id="demo"></p>
+    <script>
+        var answer1 = "It's alright" ;  //双引号内的单引号
+        var answer2 = "He is called 'Bill" ;   //双引号内的单引号
+        var answer3 = 'He is called "Bill"';   //单引号内的双引号
+        document .getElementById("demo").innerHTML = 
+        answer1 + "<br>" +
+        answer2 + "<br>" +
+        answer3;
+    </script>
+</body>
+
+</html>

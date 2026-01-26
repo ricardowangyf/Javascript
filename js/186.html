@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>向数组添加元素</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组</h1>
+    <p>length 属性提供了一种在不使用 push() 方法的情况下将新元素附加到数组的简便方法。</p>
+    <button onclick="myFunction()">试一试</button>
+    <p id="demo"></p>
+    <script>
+        var fruits = ["B", "O", "A", "M"];
+        document.getElementById("demo").innerHTML = fruits;
+
+        function myFunction() {
+            fruits[fruits.length] = "L";
+            document.getElementById("demo").innerHTML = fruits;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 [property] 访问对象属性</title>
+</head>
+
+<body>
+    <h1>JavaScript 对象属性</h1>
+    <p>有两种不同的方法来访问对象属性。</p>
+    <p>您可以使用 person.property 或 person["property"]。</p>
+    <p id="demo"></p>
+    <script>
+        //创建对象：
+        var person = {
+            firstName: "wang",
+            lastName: "与非",
+            id: 12331
+        };
+        //显示对象中的数据：
+        document.getElementById("demo").innerHTML = person["firstName"] + " " + person["lastName"]
+    </script>
+</body>
+
+</html>

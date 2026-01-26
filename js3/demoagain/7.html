@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <h1 id="myH1"></h1>
+        <p id="mayP"></p>
+        <script>
+            // 输出标题：
+            document.getElementById("myH1").innerHTML = "1";
+            // 输出段落：
+            document.getElementById("mayP").innerHTML = "2";
+        </script>
+        <p><b>注释：</b>注释不会被执行。</p>
+        <!-- js单行注释以 // 开头 -->
+    </div>
+
+    <hr />
+
+    <div>
+        <h1 id="myHx1"></h1>
+        <p id="myP"></p>
+        <script>
+            /*
+            下面的这些代码会输出
+            一个标题和一个段落
+            并将代表主页的开始
+            */
+            document.getElementById("myHx1").innerHTML = "3";
+            document.getElementById("myP").innerHTML = "4";
+        </script>
+        <p><b>注释：</b>注释块不会被执行。</p>
+        <!-- js多行注释以/*开头，*/结束 -->
+    </div>
+
+    <hr />
+
+    <div>
+        <h1 id="myaaH1"></h1>
+        <p id="maaayP"></p>
+        <script>
+            //document.getElementById("myaaH1").innerHTML="欢迎来到我的主页";
+            document.getElementById("maaayP").innerHTML = "注释块不会被执行";
+        </script>
+        <!-- <p><strong>注意:</strong> 注释块不会被执行</p> -->
+    </div>
+
+    <hr />
+
+    <div>
+        <h1 id="myawdH1"></h1>
+        <p id="myPasdasd"></p>
+        <script>
+            /*
+            document.getElementById("myawdH1").innerHTML="欢迎来到我的主页";
+            document.getElementById("myPasdasd").innerHTML="这是我的第一个段落。";
+            */
+        </script>
+        <p><strong>注意:</strong>注释块不会被执行。</p>
+        <!-- 注释用于阻止代码块的执行 -->
+    </div>
+
+    <hr />
+
+    <div>
+        <p id="mywadaP"></p>
+        <script>
+            var x = 5;   // 声明 x 并把 5 赋值给它
+            var y = x + 2;   // 声明 y 并把 x+2 赋值给它
+            document.getElementById("mywadaP").innerHTML = y // 把 y 的值写到 myP
+        </script>
+        <p><b>注释：</b>注释不会被执行。</p>
+        <!-- 注释放到代码行的结尾处 -->
+    </div>
+</body>
+
+</html>

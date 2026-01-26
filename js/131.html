@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数字可以是对象</title>
+</head>
+
+<body>
+    <h1>JavaScript 数字</h1>
+    <p>数字可以是对象，但是没有必要把数字创建为对象。</p>
+    <p id="demo"></p>
+    <script>
+        var x = 123;
+        var y = new Number(123);
+        document.getElementById("demo").innerHTML = typeof x + "<br>" + typeof y;
+    </script>
+</body>
+
+</html>

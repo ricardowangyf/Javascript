@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- <h1>我的网页</h1> -->
+        <p id="demo">第一个段落。</p>
+        <script>
+            document.getElementById("demo").innerHTML = "你好 Dolly";
+        </script>
+        <!-- 语句向 id="demo" 的 HTML 元素输出文本 "Hello Dolly" -->
+    </div>
+    <hr />
+    <div>
+        <p id="demo1"></p>
+        <p id="demo2"></p>
+        <script>
+            a = 1;
+            b = 2;
+            c = a + b;
+            document.getElementById("demo1").innerHTML = c;
+            x = 1; y = 2; z = x + y;
+            document.getElementById("demo2").innerHTML = z;
+        </script>
+        <!-- 分号用于分隔JS语句 -->
+    </div>
+    <hr />
+    <div>
+        <!-- <h1>我的 Web 页面</h1> -->
+        <p id="demao">一个段落。</p>
+        <div id="mxyDIV">一个 DIV。</div>
+        <script>
+            document.getElementById("demao").innerHTML = "你好 Dolly";
+            document.getElementById("mxyDIV").innerHTML = "你最近怎么样?";
+        </script>
+        <!-- 浏览器按照编写顺序依次执行每条语句 -->
+    </div>
+    <hr />
+    <div>
+        <!-- <h1>我的 Web 页面</h1> -->
+        <p id="myPar">我是一个段落。</p>
+        <div id="myDiv">我是一个div。</div>
+        <p>
+            <button type="button" onclick="myFunction()">点击这里</button>
+        </p>
+        <script>
+            function myFunction() {
+                document.getElementById("myPar").innerHTML = "你好世界";
+                document.getElementById("myDiv").innerHTML = "你最近怎么样?";
+            }
+        </script>
+        <p>当您点击上面的按钮时，两个元素会改变。</p>
+        <!-- 代码块以左花括号开始，以右花括号结束 -->
+    </div>
+</body>
+
+</html>

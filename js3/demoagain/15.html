@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <!-- 当条件为 true 时执行的代码  -->
+        <p>如果时间早于 20:00,会获得问候 "Good day"。</p>
+        <button onclick="myFunction()">点击这里</button>
+        <p id="demo"></p>
+        <script>
+            function myFunction() {
+                var x = "";
+                var time = new Date().getHours();
+                if (time < 20) {
+                    x = "Good day";
+                }
+                document.getElementById("demo").innerHTML = x;
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p>点击这个按钮，获得基于时间的问候。</p>
+        <button onclick="hbttnbtn()">点击这里</button>
+        <p id="aaaa"></p>
+        <script>
+            function hbttnbtn() {
+                var x = "";
+                var time = new Date().getHours();
+                if (time < 20) {
+                    x = "Good day";
+                }
+                else {
+                    x = "Good evening";
+                }
+                document.getElementById("aaaa").innerHTML = x;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

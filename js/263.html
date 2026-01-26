@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 for...in 语句遍历对象中的元素</title>
+</head>
+
+<body>
+    <h1>JavaScript 循环</h1>
+    <p>for/in 语句循环遍历对象的属性。</p>
+    <p id="demo"></p>
+    <script>
+        var txt = "";
+        var person = { fname: "Bill", lname: "Gates", age: 62 };
+        var x;
+        for (x in person) {
+            txt += person[x] + " ";
+        }
+        document.getElementById("demo").innerHTML = txt;
+    </script>
+</body>
+
+</html>

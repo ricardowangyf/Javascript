@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>if 语句</title>
+</head>
+
+<body>
+    <p>如果小时小于18:00，显示“美好的一天！”：</p>
+
+    <p id="demo">晚安</p>
+
+    <script>
+        if (new Date().getHours() < 18) {
+            document.getElementById("demo").innerHTML = "美好的一天！";
+        }
+    </script>
+</body>
+
+</html>

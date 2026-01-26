@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <div>
+        <img id="myimage" onclick="changeImage()" src="../image/pic_bulboff.gif" width="100" height="180">
+        <p>点击灯泡就可以打开或关闭这盏灯</p>
+        <!-- JS改变HTML图像 -->
+    </div>
+    <hr>
+    <div>
+        <h1>我的第一段 JavaScript</h1>
+        <p id="demo">JavaScript 能改变 HTML 元素的样式。</p>
+        <!-- JS改变HTML样式 -->
+        <button type="button" onclick="myFunction()">点击这里</button>
+    </div>
+
+    <hr>
+
+    <div>
+        <button type="button" onclick="changenumber()">点击这里</button>
+        <h1>我的第一段 JavaScript</h1>
+        <p>请输入数字。如果输入值不是数字，浏览器会弹出提示框。</p>
+        <input id="demo" type="text">
+        <!-- JS验证输入 -->
+    </div>
+</body>
+<script>
+    function changeImage() {
+        element = document.getElementById('myimage')
+        if (element.src.match("bulbon")) {
+            element.src = "../image/pic_bulboff.gi";
+        }
+        else {
+            element.src = "../image/pic_bulbon.gif";
+        }
+        // JS改变HTML图像
+    }
+
+
+    function myFunction() {
+        x = document.getElementById("demo")
+        x.style.color = "#ff0000";
+        // JS改变HTML样式
+    }
+
+
+    function changenumber() {
+        var x = document.getElementById("demo").value;
+        if (x == "" || isNaN(x)) {
+            alert("不是数字");
+        }
+        // JS验证输入
+    }
+</script>
+
+</html>

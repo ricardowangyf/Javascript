@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>阻止执行的多行注释</title>
+</head>
+
+<body>
+    <h2>JavaScript 注释</h2>
+    <h1 id="myH"></h1>
+    <p id="myP"></p>
+    <script>
+        /*
+        document.getElementById("myH").innerHTML = "欢迎访问我的首页";
+        document.getElementById("myP").innerHTML = "这是我的第一个段落。";
+        */
+        document.getElementById("myP").innerHTML = "注释块不会被执行。";
+    </script>
+</body>
+
+</html>

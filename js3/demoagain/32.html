@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript">
+        function getValue() {
+            var a, b, c;
+            a = void (b = 5, c = 7);
+            document.write('a = ' + a + ' b = ' + b + ' c = ' + c);
+        }
+    </script>
+</head>
+
+<body>
+    <div>
+        <a href="javascript:void(0)">单此处什么也不会发生</a>
+    </div>
+    <hr />
+    <div>
+        <p>点击以下链接查看结果：</p>
+        <a href="javascript:void(alert('Warning!!!'))">点我!</a>
+    </div>
+    <hr />
+    <div>
+        <p>点击以下按钮查看结果：</p>
+        <form>
+            <input type="button" value="点我" onclick="getValue();" />
+        </form>
+    </div>
+</body>
+
+</html>

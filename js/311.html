@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 POST 方法发送 JSON</title>
+</head>
+
+<body>
+    <h1>使用 HTTP 方法 POST 把数据发送到 PHP 文件</h1>
+    <p id="demo"></p>
+    <script>
+        var xmlhttp, myObj, x, txt = "";
+        xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                myObj = JSON.parse(this.responseText);
+                for (x in myObj) {
+                    txt += myObj[x].CustomerId + "<br>";
+                }
+                document.getElementById("demo").innerHTML = txt;
+            }
+        };
+        xmlhttp.open("POST", "/demo/demo_json_db.php", true);
+        xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xmlhttp.send();
+    </script>
+</body>
+
+</html>

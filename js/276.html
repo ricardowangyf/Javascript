@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建 JavaScript 变量的最佳方式</title>
+</head>
+
+<body>
+    <h1>JavaScript 对象构造器</h1>
+    <p id="demo"></p>
+    <script>
+        var x1 = {};  // 对象
+        var x2 = " ";  // 字符串
+        var x3 = 0;  // 数字
+        var x4 = false; // 布尔
+        var x5 = [];  // 对象（非数组）
+        var x6 = /（ ）/;    // 对象
+        var x7 = function () { }; // 函数
+
+        // 显示所有类型
+        document.getElementById("demo").innerHTML =
+            "x1: " + typeof x1 + "<br>" +
+            "x2: " + typeof x2 + "<br>" +
+            "x3: " + typeof x3 + "<br>" +
+            "x4: " + typeof x4 + "<br>" +
+            "x5: " + typeof x5 + "<br>" +
+            "x6: " + typeof x6 + "<br>" +
+            "x7: " + typeof x7 + "<br>";
+    </script>
+</body>
+
+</html>

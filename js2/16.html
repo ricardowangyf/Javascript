@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let fruits = ['apple', 'banana', 'orange'];
+        fruits.push('grape'); // 在数组末尾添加新元素
+        console.log(fruits);
+        //push方法
+
+        let avb = ['apple', 'banana', 'orange'];
+        let lastFruit = avb.pop(); // 删除数组的最后一个元素
+        console.log(avb);
+        console.log(lastFruit);
+        //pop方法
+
+        let myArray = [1, 2, 3, 4, 5,6,7,8,89];
+        let firstElement = myArray.shift();//将数组中的第一个元素移到数组的末尾
+        myArray.push(firstElement);
+        console.log(myArray);
+
+        let aerawe = [2, 3, 4, 5,1,2,34];
+        aerawe.unshift(1);//传递多个参数来向数组的开头添加多个元素
+        console.log(aerawe);
+
+        let aaaaa = [1, 2, 3, 4, 5];
+        let subArray = aaaaa.slice(1, 4);//从数组中提取一个子数组,提取原始数组中的元素并塞入新数组
+        console.log(aaaaa);
+
+        let qqqq = [1, 2, 3, 4, 5];
+        let removedElements = qqqq.splice(1, 2, 'a', 'b', 'c');
+        console.log(qqqq); // 输出 [1, 'a', 'b', 'c',
+
+    </script>
+</body>
+
+</html>

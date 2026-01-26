@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array.reduceRight()</title>
+</head>
+
+<body>
+    <h1>JavaScript Array.reduceRight()</h1>
+    <p>此例确定数组中所有数字的总和：</p>
+    <p id="demo"></p>
+    <script>
+        var numbers = [45, 4, 9, 16, 25];
+        var sum = numbers.reduceRight(myFunction);
+
+        document.getElementById("demo").innerHTML = "总和是:" + sum;
+
+        function myFunction(total, value, index, array) {
+            return total + value;
+        }
+    </script>
+</body>
+
+</html>

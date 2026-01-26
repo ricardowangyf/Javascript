@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>将未定义的“孔”添加到数组中</title>
+</head>
+
+<body>
+    <h1>JavaScript 数组</h1>
+    <p>添加具有高索引的元素可以在数组中创建未定义的“孔”。</p>
+    <p id="demo"></p>
+    <script>
+        var fruits, text, fLen, i;
+        fruits = ["A", "B", "C", "D"];
+        fruits[6] = "O";
+
+        fLen = fruits.length;
+        text = " ";
+        for (i = 0; i < fLen; i++) {
+            text += fruits[i] + "<br>";
+        }
+        document.getElementById("demo").innerHTML = text;
+    </script>
+</body>
+
+</html>

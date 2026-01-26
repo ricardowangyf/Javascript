@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <script>
+            var i;
+            var mycars = new Array();
+            mycars[0] = "Saab";
+            mycars[1] = "Volvo";
+            mycars[2] = "BMW";
+            for (i = 0; i < mycars.length; i++) {
+                document.write(mycars[i] + "<br>");
+            }
+        </script>
+    </div>
+    <hr />
+    <div>
+        <p id="demo">单击按钮创建一个数组,调用ucase()方法, 并显示结果。</p>
+        <button onclick="myFunction()">点我</button>
+        <script>
+            Array.prototype.myUcase = function () {
+                for (i = 0; i < this.length; i++) {
+                    this[i] = this[i].toUpperCase();
+                }
+            }
+            function myFunction() {
+                var fruits = ["Banana", "Orange", "Apple", "Mango"];
+                fruits.myUcase();
+                var x = document.getElementById("demo");
+                x.innerHTML = fruits;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

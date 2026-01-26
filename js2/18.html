@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <script>
+            const num1 = 3.14159;
+            console.log(num1.toFixed(2)); //将数字四舍五入为指定小数位数的字符串表示形式
+
+            console.log(num1.toPrecision(3)); // 将数字转换为指定精度的字符串表示形式
+            console.log(num1.toExponential(2)); // 将数字转换为科学计数法的字符串表示形式
+
+            const str1 = "3.14159";
+            console.log(parseFloat(str1)); // 将字符串转换为浮点数
+            console.log(parseInt(str1)); // 将字符串转换为整数
+
+            const num2 = NaN;
+            console.log(isNaN(num2)); // 判断一个值是否是NaN
+
+            const num3 = Infinity;
+            console.log(isFinite(num3)); // 判断一个值是否是有限数值
+
+        </script>
+        <hr>
+
+    </div>
+</body>
+
+</html>
